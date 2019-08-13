@@ -16,7 +16,7 @@ To add or update your server, please submit a pull request.
 * <id\> This is the unique guid of your server. You can generate one here: https://www.guidgenerator.com.
 * <name\> The name of your server.
 * <description\> A brief statement describing your server (Optional)
-* <emu\> Valid values are: ACE, GDL, GDLE
+* <emu\> Valid values are: ACE, GDL
 * <server_host\> Your servers address, for example, myserver.mydomain.com
 * <server_port\> Your servers port. Default is 9000
 * <type\> Valid values are: PvE, PvP (Optional)
