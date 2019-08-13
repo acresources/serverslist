@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServerItem>
+  <ServerItem>
+    <id>6F8A800A-C9CA-44FA-89B7-458AC73FAE78</id>
+    <name>New Horizons</name>
+    <description>Retail Style PvP(ACEmulator)</description>
+    <emu>ACE</emu>
+    <server_host>PvP.Newhorizons.world</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/s44gDxj</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>3c431416-a5dc-4c15-9d9d-3262b64ed4e0</id>
+    <name>Drunkenfell</name>
+    <description>A PvE server that will resemble end-of-retail with some modifications.</description>
+    <emu>ACE</emu>
+    <server_host>df.jackncoke.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/tHEe7QU</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>394C58D0-885D-466B-B17F-D7E0B96FE3E2</id>
+    <name>Seedsow</name>
+    <description>A PVE Dark Majesty server must use classic AC .dats</description>
+    <emu>GDL</emu>
+    <server_host>serafino.ddns.net</server_host>
+    <server_port>9060</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://goo.gl/mUEu6g</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>EEA962C0-CF9F-481E-9736-0EB058ACC1D8</id>
+    <name>Snowreap</name>
+    <description>A PVP Dark Majesty server must use classic AC .dats</description>
+    <emu>GDL</emu>
+    <server_host>serafino.ddns.net</server_host>
+    <server_port>9070</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://goo.gl/mUEu6g</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>C1E1C066-E32A-4994-96EE-5EC3AA316FC8</id>
+    <name>RelicDawn</name>
+    <description>relicdawn.com - A casual PVE Server.</description>
+    <emu>GDL</emu>
+    <server_host>server.relicdawn.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/rnvZ6Df</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>A36BAB53-257E-4DA2-A9CA-A3DD7059F73C</id>
+    <name>Darkside</name>
+    <description>A PVP server like end of game retail with events.</description>
+    <emu>GDL</emu>
+    <server_host>darkside.damnserver.com</server_host>
+    <server_port>9006</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/5qYNzkH</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>1C9CBF34-8E18-4FC5-9C90-71959D3D7A67</id>
+    <name>Reaptide</name>
+    <description>Full Loot Drop On PVP Death.</description>
+    <emu>GDL</emu>
+    <server_host>reaptide.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/uHZ3PtK</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>40ACC530-BD87-4878-A85C-13D0AA1FF981</id>
+    <name>NoESCape</name>
+    <description>Casual server with modifications.</description>
+    <emu>GDL</emu>
+    <server_host>noescape.sytes.net</server_host>
+    <server_port>9000</server_port>
+    <type></type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/FmMbpK5</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
+    <name>GDLE Test</name>
+    <description>Test server for Reefcull and Hightide servers.</description>
+    <emu>GDL</emu>
+    <server_host>gdletest.connect-to-server.online</server_host>
+    <server_port>9000</server_port>
+    <type></type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>8ac78e2e-b4c3-4afb-9026-6e0e38d63e42</id>
+    <name>Bot Net</name>
+    <description>A PvP server that will resemble end of retail with some modifications.</description>
+    <emu>GDL</emu>
+    <server_host>BotNet.ServeBeer.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/Kmnmyqv</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>689438de-0109-4a01-9d2b-d47c0b2bc0e9</id>
+    <name>Levistras</name>
+    <description>A 100% Botting-Free PvE Server! Apply through our Discord for access!</description>
+    <emu>ACE</emu>
+    <server_host>Levistras.servequake.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/TtkcWbv</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>c5749639-ba45-48ba-ad2a-325482406ff5</id>
+    <name>DoBZ</name>
+    <description>Full Loot PvP Server 40x XP and Reduced Timers.</description>
+    <emu>GDL</emu>
+    <server_host>drunkfall.hopto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/4tkUdua</discord_url>
+  </ServerItem>
+</ArrayOfServerItem>

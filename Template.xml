@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServerItem>
+  <ServerItem>
+    <id></id>
+    <name></name>
+    <description></description>
+    <emu></emu>
+    <server_host></server_host>
+    <server_port></server_port>
+    <type></type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+</ArrayOfServerItem>
