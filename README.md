@@ -28,7 +28,7 @@ To add or update your server, please submit a pull request.
 
 #### Can I change my server id?
 * Once a server is submitted, it's id must not change.
-* If you decomission your server and start up a new server, even if your new server reuses the same name, you should submit a new server to the list using a new id.
+* If you decommission your server and start up a new server, even if your new server reuses the same name, you should submit a new server to the list using a new id.
 * Your servers lifetime should be represented by the Shard database that stores your world.
 * A new Shard should be considered a new server.
 
@@ -44,7 +44,7 @@ To add or update your server, please submit a pull request.
 * Anyone
 
 #### Who approves pull requests?
-* There are several community members that can accept pull requests.
+* There are several community members that can approve pull requests.
 
 ## Other Resources
 * [ACEmulator](https://github.com/ACEmulator/ACE)
