@@ -144,4 +144,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/4tkUdua</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>885765a9-e927-414c-9ab4-9d9a76b64ce6</id>
+    <name>PotatoAC</name>
+    <description>ACE PK Server 1.5x XP & De-leveling system</description>
+    <emu>ACE</emu>
+    <server_host>potatoac.webhop.me</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/gbhnz2u</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
