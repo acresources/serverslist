@@ -1,6 +1,8 @@
 # AC Servers
-This is central repository for AC emulated servers, managed by the community.  
-To add or update your server, please submit a pull request.
+* This is central repository for AC emulated servers, managed by the community.  
+* To add or update your server, please submit a pull request.
+* This list is open to the community and can be considered "Wild Wild West"
+* It's not the function of this list to provide "official" or "preferred" status
 
 ***
 ## Disclaimer
@@ -45,6 +47,11 @@ To add or update your server, please submit a pull request.
 
 #### Who approves pull requests?
 * There are several community members that can approve pull requests.
+
+#### Are servers ever removed or rejected?
+* Only under extreme circumstances will a server be removed from this list
+* The specific reasons aren't defined, but they might include the following;
+  * Servers with the intent or functions to exploit their clients
 
 ## Other Resources
 * [ACEmulator](https://github.com/ACEmulator/ACE)
