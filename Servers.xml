@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>4718389c-2948-4198-afe3-f67095cc98eb</id>
+    <name>RIPtide</name>
+    <description>A PvP server that will mimic retail with quality of life deviations.</description>
+    <emu>ACE</emu>
+    <server_host>riptide.servegame.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/y8dMuv9</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>6F8A800A-C9CA-44FA-89B7-458AC73FAE78</id>
     <name>New Horizons</name>
     <description>Retail Style PvP(ACEmulator)</description>
