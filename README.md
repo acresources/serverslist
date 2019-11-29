@@ -29,7 +29,7 @@
 ## FAQ
 
 #### Is there a step by step guide to adding my server?
-* Please see the Wiki here: https://github.com/acresources/serverslist/wiki/Step-by-step-guide-to-adding-your-server
+* Please see the Wiki here: https://github.com/acresources/serverslist/wiki
 
 #### Can I change my server id?
 * Once a server is submitted, it's id must not change.
