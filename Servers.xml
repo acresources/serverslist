@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
+    <name>FrostfACE</name>
+    <description>New accounts include lvl 275 starter characters. Retail character restoration also supported.</description>
+    <emu>ACE</emu>
+    <server_host>172.111.198.11</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>4718389c-2948-4198-afe3-f67095cc98eb</id>
     <name>RIPtide</name>
     <description>A PvP server that will mimic retail with quality of life deviations.</description>
