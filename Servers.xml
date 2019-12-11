@@ -173,11 +173,11 @@
     <name>Dawnsong</name>
     <description>European PvE Server.</description>
     <emu>ACE</emu>
-    <server_host>dawnsong.ddns.net</server_host>
+    <server_host>dawnsong.asheron.online</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status></status>
-    <website_url>http://dawnsong.ddns.net</website_url>
+    <website_url>http://asheron.online</website_url>
     <discord_url></discord_url>
   </ServerItem>
 </ArrayOfServerItem>
