@@ -180,4 +180,16 @@
     <website_url>http://asheron.online</website_url>
     <discord_url></discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>451008a9-d83f-41c9-b4c5-836988e15d93</id>
+    <name>Winterthaw</name>
+    <description>Casual server with convenience changes and plans for custom content.</description>
+    <emu>ACE</emu>
+    <server_host>23.20.74.30</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/4zvN6YP</discord_url>
+  </ServerItem>  
 </ArrayOfServerItem>
