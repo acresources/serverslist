@@ -191,5 +191,17 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/4zvN6YP</discord_url>
-  </ServerItem>  
+  </ServerItem>
+  <ServerItem>
+    <id>26d9ec3d-9fbf-4fda-95f9-8d87e005ae3a</id>
+    <name>Coldeve</name>
+    <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator.</description>
+    <emu>ACE</emu>
+    <server_host>play.coldeve.online</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/nUR4PHe</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
