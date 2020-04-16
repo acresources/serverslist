@@ -41,7 +41,7 @@
     <name>Drunkenfell</name>
     <description>A PvE server that will resemble end-of-retail with some modifications.</description>
     <emu>ACE</emu>
-    <server_host>df.jackncoke.com</server_host>
+    <server_host>df.drunkenfell.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status></status>
