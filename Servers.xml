@@ -5,7 +5,7 @@
     <name>FrostfACE</name>
     <description>New accounts include lvl 275 starter characters. Retail character restoration also supported.</description>
     <emu>ACE</emu>
-    <server_host>172.111.198.11</server_host>
+    <server_host>172.111.230.127</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Development</status>
