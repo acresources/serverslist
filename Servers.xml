@@ -14,10 +14,10 @@
   </ServerItem>
   <ServerItem>
     <id>4718389c-2948-4198-afe3-f67095cc98eb</id>
-    <name>RIPtide</name>
+    <name>Riptide</name>
     <description>A PvP server that will mimic retail with quality of life deviations.</description>
     <emu>GDL</emu>
-    <server_host>riptide.servegame.com</server_host>
+    <server_host>riptide.ac</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
     <status></status>
