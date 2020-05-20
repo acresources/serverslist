@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>a47807ba-9aae-4790-98ae-e9f9e9177318</id>
+    <name>RisingSun</name>
+    <description>A PVE server currently goal is to follow path toward end of game retail.</description>
+    <emu>ACE</emu>
+    <server_host>risingsun.hopto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/XCXH8R8</discord_url>
+  </ServerItem>
+</ArrayOfServerItem>
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfServerItem>
+  <ServerItem>
     <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
     <name>FrostfACE</name>
     <description>New accounts include lvl 275 starter characters. Retail character restoration also supported.</description>
