@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>c8561ff6-98d8-4abf-b4dc-38703be4ec9a</id>
+    <name>Gloomfell</name>
+    <description>OG PVE Experience: 3x mob damage, reduced XP, reduced Quest timers, no Town Network or Facility Hub.</description>
+    <emu>ACE</emu>
+    <server_host>3.19.16.15</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/XV2wJtP</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>a47807ba-9aae-4790-98ae-e9f9e9177318</id>
     <name>RisingSun</name>
     <description>A PVE server currently goal is to follow path toward end of game retail.</description>
