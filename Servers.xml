@@ -183,14 +183,14 @@
   <ServerItem>
     <id>885765a9-e927-414c-9ab4-9d9a76b64ce6</id>
     <name>PotatoAC</name>
-    <description>ACE PK Server 1.5x XP and De-leveling system</description>
+    <description>ACE PK Server 1.5x-3.0x XP with an emphasis on Custom Content</description>
     <emu>ACE</emu>
-    <server_host>potatoac.webhop.me</server_host>
+    <server_host>potato.ac</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
     <status></status>
     <website_url></website_url>
-    <discord_url>https://discord.gg/gbhnz2u</discord_url>
+    <discord_url>https://discord.gg/s2YmfbW</discord_url>
   </ServerItem>
   <ServerItem>
     <id>377b63e2-f16c-4850-9a03-dc1cb10c84b1</id>
