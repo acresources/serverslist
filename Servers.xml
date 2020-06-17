@@ -207,7 +207,7 @@
     <ServerItem>
     <id>a9e82cfa-94ad-4641-a7be-3050d16ec728</id>
     <name>Frozenvalley</name>
-    <description>A PVP server working to end of game retail experience with events.(3 account limit)</description>
+    <description>A PVE ACEmulator server working to end of game retail experience with events.(3 account limit)</description>
     <emu>ACE</emu>
     <server_host>174.138.182.209</server_host>
     <server_port>9000</server_port>
