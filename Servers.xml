@@ -233,7 +233,7 @@
     <name>Frozenvalley</name>
     <description>An ACEmulator PVE server working to an End of Retail+ goal. (3 Account Limit)</description>
     <emu>ACE</emu>
-    <server_host>198.187.28.57</server_host>
+    <server_host>174.138.182.209</server_host>
     <server_port>9000</server_port>
     <type>PVE</type>
     <status>Stable</status>
@@ -252,7 +252,7 @@
     <website_url>http://www.livingauberean.com/</website_url>
     <discord_url>https://discord.gg/BefJujR</discord_url>
   </ServerItem>
-    <ServerItem>
+  <ServerItem>
     <id>b3dd2b22-4292-4b52-9099-8c570e87b1ab</id>
     <name>Thistlecrown</name>
     <description>Everyone welcome! 3 account limit. Recreation of TD.</description>
