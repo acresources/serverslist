@@ -135,10 +135,10 @@
   <ServerItem>
     <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
     <name>GDLE Test</name>
-    <description>Test server for Reefcull and Hightide servers.</description>
+    <description>Test server for Reefcull and Harvestbud servers.</description>
     <emu>GDL</emu>
-    <server_host>gdletest.connect-to-server.online</server_host>
-    <server_port>9000</server_port>
+    <server_host>test.gdleac.com</server_host>
+    <server_port>9050</server_port>
     <type></type>
     <status></status>
     <website_url></website_url>
