@@ -285,7 +285,7 @@
     <server_port>9000</server_port>
     <type>PvP</type>
     <status>Development</status>
-    <website_url>http://ac.circleofseven.com</website_url>
+    <website_url>http://http://ac.circleofseven.com</website_url>
     <discord_url>https://discord.gg/NfRy3bMX</discord_url>
   </ServerItem>  
 </ArrayOfServerItem>
