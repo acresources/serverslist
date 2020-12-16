@@ -171,9 +171,9 @@
   <ServerItem>
     <id>689438de-0109-4a01-9d2b-d47c0b2bc0e9</id>
     <name>Levistras</name>
-    <description>A 100% Botting-Free PvE Server! Apply through our Discord for access!</description>
+    <description>A 100% Botting-Free PvE Server! Open access! 2 account limit</description>
     <emu>ACE</emu>
-    <server_host>acportalstorm.com</server_host>
+    <server_host>levistras.acportalstorm.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status></status>
