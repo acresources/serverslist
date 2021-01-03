@@ -297,7 +297,7 @@
     <server_host>asheron.tycel.me</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
-    <status>Development</status>
+    <status>Stable</status>
     <website_url>https://ac.tycel.me</website_url>
     <discord_url>https://discord.gg/7PRpdH2</discord_url>
   </ServerItem>  
