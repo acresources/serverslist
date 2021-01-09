@@ -278,7 +278,7 @@
   </ServerItem>
   <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
-    <name>A'Chard</name>
+    <name>AChard</name>
     <description>PvP ACE Retail Server including modifications from FX's twisted sick mind...</description>
     <emu>ACE</emu>
     <server_host>a-chard.ddns.net</server_host>
