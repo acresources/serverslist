@@ -288,8 +288,7 @@
     <website_url>http://ac.circleofseven.com</website_url>
     <discord_url>https://discord.gg/CWr2ezpgjE</discord_url>
   </ServerItem>  
-</ArrayOfServerItem>
-<ServerItem>
+  <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
     <name>Darknode</name>
     <description>ACE Retail PvP Server.</description>
