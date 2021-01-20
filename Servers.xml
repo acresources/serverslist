@@ -288,8 +288,7 @@
     <website_url>http://ac.circleofseven.com</website_url>
     <discord_url>https://discord.gg/CWr2ezpgjE</discord_url>
   </ServerItem>  
-</ArrayOfServerItem>
-<ServerItem>
+  <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
     <name>Darknode</name>
     <description>ACE Retail PvP Server.</description>
@@ -301,4 +300,28 @@
     <website_url>https://ac.tycel.me</website_url>
     <discord_url>https://discord.gg/7PRpdH2</discord_url>
   </ServerItem>  
+    <ServerItem>
+    <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
+    <name>FunkyTown</name>
+    <description>Retail with a little bit of Funky</description>
+    <emu>GDL</emu>
+    <server_host>funkytownac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://funkytownac.com</website_url>
+    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
+  </ServerItem>  
+  <ServerItem>
+    <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
+    <name>Frostcull</name>
+    <description>NO LEVEL/ATTRIBUTE CAP! 10x XP/Luminance, 25x Drop Rate, Quest Timers Reduced By 90%!</description>
+    <emu>ACE</emu>
+    <server_host>frostcull.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/sBXtZ8S7dG</discord_url>
+  </ServerItem> 
 </ArrayOfServerItem>
