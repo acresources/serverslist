@@ -278,7 +278,7 @@
   </ServerItem>
   <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
-    <name>AChard</name> 
+    <name>AChard</name>
     <description>PvP ACE Retail Server including modifications from FX's twisted sick mind...</description>
     <emu>ACE</emu>
     <server_host>a-chard.ddns.net</server_host>
@@ -289,7 +289,7 @@
     <discord_url>https://discord.gg/CWr2ezpgjE</discord_url>
   </ServerItem>  
   <ServerItem>
-    <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
+    <id>C089A14E-1E49-4FA2-AA1E-12A598C37E2B</id>
     <name>Darknode</name>
     <description>ACE Retail PvP Server.</description>
     <emu>ACE</emu>
@@ -301,7 +301,7 @@
     <discord_url>https://discord.gg/7PRpdH2</discord_url>
   </ServerItem>  
     <ServerItem>
-    <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
+    <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
     <name>FunkyTown</name>
     <description>Retail with a little bit of Funky</description>
     <emu>GDL</emu>
