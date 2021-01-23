@@ -183,7 +183,7 @@
   <ServerItem>
     <id>c5749639-ba45-48ba-ad2a-325482406ff5</id>
     <name>DoBZ</name>
-    <description>Full Loot PvP Server 3x XP and Reduced Timers.</description>
+    <description>Most populated PvP Server (Jan 2021) - 3x XP and Reduced Timers.</description>
     <emu>ACE</emu>
     <server_host>dobzac.ddns.net</server_host>
     <server_port>9000</server_port>
@@ -191,6 +191,18 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/Q8Zyaa3</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>143c69c3-8b67-41b1-b868-68e102fcbdea</id>
+    <name>AC Realms</name>
+    <description>Experimental server with instances and planned server merge technology. Currently has PvE, PvP, and duel realms. All players across all realms can duel each other.</description>
+    <emu>ACE</emu>
+    <server_host>realm.ac</server_host>
+    <server_port>9042</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/ggVhdzY</discord_url>
   </ServerItem>
   <ServerItem>
     <id>885765a9-e927-414c-9ab4-9d9a76b64ce6</id>
