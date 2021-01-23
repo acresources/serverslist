@@ -183,14 +183,14 @@
   <ServerItem>
     <id>c5749639-ba45-48ba-ad2a-325482406ff5</id>
     <name>DoBZ</name>
-    <description>Full Loot PvP Server 40x XP and Reduced Timers.</description>
-    <emu>GDL</emu>
-    <server_host>drunkfall.hopto.org</server_host>
+    <description>Full Loot PvP Server 3x XP and Reduced Timers.</description>
+    <emu>ACE</emu>
+    <server_host>dobzac.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
     <status></status>
     <website_url></website_url>
-    <discord_url>https://discord.gg/4tkUdua</discord_url>
+    <discord_url>https://discord.gg/Q8Zyaa3</discord_url>
   </ServerItem>
   <ServerItem>
     <id>885765a9-e927-414c-9ab4-9d9a76b64ce6</id>
