@@ -207,7 +207,7 @@
   <ServerItem>
     <id>885765a9-e927-414c-9ab4-9d9a76b64ce6</id>
     <name>PotatoAC</name>
-    <description>ACE PK Server 1.5x-3.0x XP with an emphasis on Custom Content</description>
+    <description>ACE PK Server 3.0x XP with an emphasis on Custom Content</description>
     <emu>ACE</emu>
     <server_host>potato.ac</server_host>
     <server_port>9000</server_port>
