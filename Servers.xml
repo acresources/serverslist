@@ -183,7 +183,7 @@
   <ServerItem>
     <id>c5749639-ba45-48ba-ad2a-325482406ff5</id>
     <name>DoBZ</name>
-    <description>Most populated PvP Server (Jan 2021) - 3x XP and Reduced Timers.</description>
+    <description>PvP server developed in collaboration with the PotatoAC team. 3x XP, 3x lum (from kills) and Reduced Timers. Some custom content. Session limit is 5.</description>
     <emu>ACE</emu>
     <server_host>dobzac.ddns.net</server_host>
     <server_port>9000</server_port>
