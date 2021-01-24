@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>bef2977e-650d-42e1-8855-aa1a7eb2c44d</id>
+    <name>Nightfall</name>
+    <description>ACEmulator PvE server working to an End of Retail+ goal.</description>
+    <emu>ACE</emu>
+    <server_host>nightfall.ac</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Stable</status>
+    <website_url>http://nightfall.ac/</website_url>
+        <discord_url>https://discord.gg/Wzh6742wxS</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>c8561ff6-98d8-4abf-b4dc-38703be4ec9a</id>
     <name>Gloomfell</name>
     <description>OG PVE Experience: 3x mob damage, reduced XP, reduced Quest timers, no Town Network or Facility Hub.</description>
