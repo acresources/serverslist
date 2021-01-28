@@ -348,10 +348,6 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/sBXtZ8S7dG</discord_url>
   </ServerItem> 
-</ArrayOfServerItem>
-
-<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfServerItem>
   <ServerItem>
     <id>d8bdc305-93fa-44d0-8d21-52b736c5b469</id>
     <name>Darktide 2.0</name>
