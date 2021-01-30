@@ -197,7 +197,7 @@
     <name>DoBZ</name>
     <description>PvP server developed in collaboration with the PotatoAC team. 3x XP, 3x lum (from kills) and Reduced Timers. Some custom content. Session limit is 5.</description>
     <emu>ACE</emu>
-    <server_host>dobzac.ddns.net</server_host>
+    <server_host>dobz.realm.ac</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
     <status></status>
