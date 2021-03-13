@@ -348,4 +348,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/46w4nGk2yu</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>71eb9232-d22c-421b-a6ca-7b8c54821573</id>
+    <name>asheron4fun</name>
+    <description>A PVE ACE server with End of Retail + eay mode content. (4 Accounts at once limit)</description>
+    <emu>ACE</emu>
+    <server_host>www.asheron4fun.com</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Stable</status>
+    <website_url>https://www.asheron4fun.com/</website_url>
+    <discord_url>https://discord.gg/afnQNXj</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
