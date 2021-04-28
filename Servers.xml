@@ -241,18 +241,6 @@
     <discord_url></discord_url>
   </ServerItem>
   <ServerItem>
-    <id>451008a9-d83f-41c9-b4c5-836988e15d93</id>
-    <name>Winterthaw</name>
-    <description>Casual server with convenience changes and plans for custom content.</description>
-    <emu>ACE</emu>
-    <server_host>71.87.108.159</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/4zvN6YP</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>26d9ec3d-9fbf-4fda-95f9-8d87e005ae3a</id>
     <name>Coldeve</name>
     <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator.</description>
@@ -360,4 +348,14 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/46w4nGk2yu</discord_url>
   </ServerItem>
-</ArrayOfServerItem>
+  <ServerItem>
+<id> abcc47f5-f749-4473-a74c-1b8c357acb9f
+<name> Snowreap
+<description> A custom content server with QOL changes and high level island and live events!
+<emu> ACE
+<server_host> 71.87.108.159
+<server_port> 9000
+<type> PvE
+<status> Stable
+<discord_url> https://discord.gg/Wq2gte9byE
+  </ArrayOfServerItem>
