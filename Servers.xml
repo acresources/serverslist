@@ -349,13 +349,13 @@
     <discord_url>https://discord.gg/46w4nGk2yu</discord_url>
   </ServerItem>
   <ServerItem>
-<id> abcc47f5-f749-4473-a74c-1b8c357acb9f
-<name> Snowreap
-<description> A custom content server with QOL changes and high level island and live events!
-<emu> ACE
-<server_host> 71.87.108.159
-<server_port> 9000
-<type> PvE
-<status> Stable
-<discord_url> https://discord.gg/Wq2gte9byE
+<id>abcc47f5-f749-4473-a74c-1b8c357acb9f<id>
+<name>Wynterhaven<name>
+<description>A custom content server with QOL changes and high level island and live events!<description>
+<em>uACE<em>u
+<server_host>71.87.108.159<server_port>
+<server_port>9000<server_port>
+<type>PvE<type>
+<status>Stable<status>
+<discord_url>https://discord.gg/uWUgNv2yDP<discord_url>
   </ArrayOfServerItem>
