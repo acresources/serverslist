@@ -253,13 +253,10 @@
     <discord_url>https://discord.gg/3qtQUqJJJJ</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>680f4e47-4e86-4320-8382-f2070eb48614</id>
-    <name>DuskFall</name>
-    <id>b5dfbe72-ad74-4e6e-b3f9-4e9d3f26e78d</id>
+    <id>7d1eba44-5b6f-417c-948d-2607d6f54bcc</id>
     <name>Duskfall</name>
     <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
     <emu>ACE</emu>
-    <server_host>198.251.74.29:</server_host>
     <server_host>74.208.43.194:</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
