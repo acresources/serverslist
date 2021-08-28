@@ -241,18 +241,6 @@
     <discord_url>https://discord.gg/afnQNXj</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>31d4a019-4508-4bdc-b83d-451f9cbfc612</id>
-    <name>AC Factions</name>
-    <description>A PvP Faction vs Faction server with End of Retail + Custom content. (1 Accounts at once limit)</description>
-    <emu>ACE</emu>
-    <server_host>faction.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/3qtQUqJJJJ</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>7d1eba44-5b6f-417c-948d-2607d6f54bcc</id>
     <name>Duskfall</name>
     <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
