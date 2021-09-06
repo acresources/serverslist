@@ -245,7 +245,7 @@
     <name>Duskfall</name>
     <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
     <emu>ACE</emu>
-    <server_host>74.208.43.194:</server_host>
+    <server_host>74.208.43.194</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
