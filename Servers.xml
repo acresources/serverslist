@@ -1,78 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
-    <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
-    <name>AChard</name>
-    <description>PvP ACE Retail Server including modifications from FX's twisted sick mind...</description>
-    <emu>ACE</emu>
-    <server_host>a-chard.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Development</status>
-    <website_url>http://ac.circleofseven.com</website_url>
-    <discord_url></discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
-    <name>ACPrime</name>
-    <description>A PvE 'no grinding' group of players.</description>
-    <emu>ACE</emu>
-    <server_host>asheronscall.hopto.org</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/VSFtYXN3v7</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>71eb9232-d22c-421b-a6ca-7b8c54821573</id>
-    <name>asheron4fun.com</name>
-    <description>A PVE ACE server with End of Retail + easy mode content. (4 Accounts at once limit)</description>
-    <emu>ACE</emu>
-    <server_host>www.asheron4fun.com</server_host>
-    <server_port>9000</server_port>
-    <type>PVE</type>
-    <status>Stable</status>
-    <website_url>https://www.asheron4fun.com/</website_url>
-    <discord_url>https://discord.gg/afnQNXj</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>3c431416-a5dc-4c15-9d9d-3262b64ed4e0</id>
-    <name>Drunkenfell</name>
-    <description>A PvE server that will resemble end-of-retail with some modifications.</description>
-    <emu>ACE</emu>
-    <server_host>df.drunkenfell.com</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/tHEe7QU</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>7d1eba44-5b6f-417c-948d-2607d6f54bcc</id>
-    <name>Duskfall</name>
-    <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
-    <emu>ACE</emu>
-    <server_host>74.208.43.194</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/jH7uYyF8gp</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
-    <name>Frostcull</name>
-    <description>NO LEVEL/ATTRIBUTE CAP! 10x XP/Luminance, 25x Drop Rate, Quest Timers Reduced By 90%!</description>
-    <emu>ACE</emu>
-    <server_host>frostcull.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/RQF7HgEZn4</discord_url>
-  </ServerItem>   
-  <ServerItem>
     <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
     <name>FrostfACE</name>
     <description>New accounts include lvl 275 starter characters. Retail character restoration also supported.</description>
@@ -85,64 +13,16 @@
     <discord_url></discord_url>
   </ServerItem>
   <ServerItem>
-    <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
-    <name>FunkyTown</name>
-    <description>Retail with a little bit of Funky</description>
-    <emu>GDL</emu>
-    <server_host>funkytownac.com</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url>https://funkytownac.com</website_url>
-    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>24146524-64c8-4088-8423-ef7741679844</id>
-    <name>Harvestpain</name>
-    <description>A PVE ACE server with a End of Retail experience. 5 account limit with botting allowed.</description>
+    <id>3c431416-a5dc-4c15-9d9d-3262b64ed4e0</id>
+    <name>Drunkenfell</name>
+    <description>A PvE server that will resemble end-of-retail with some modifications.</description>
     <emu>ACE</emu>
-    <server_host>harvestpain.duckdns.org</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>0D516A4A-14A4-4570-ADD7-95F83AF0246F</id>
-    <name>Jellocull</name>
-    <description>A PVE Server to mimic retail and later add custom content. </description>
-    <emu>ACE</emu>
-    <server_host>ac.jellocull.com</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/snv52pX</discord_url>
-  </ServerItem>  
-  <ServerItem>
-    <id>689438de-0109-4a01-9d2b-d47c0b2bc0e9</id>
-    <name>Levistras</name>
-    <description>A 100% Botting-Free PvE Server! Open access! 2 account limit</description>
-    <emu>ACE</emu>
-    <server_host>levistras.acportalstorm.com</server_host>
+    <server_host>df.drunkenfell.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status></status>
     <website_url></website_url>
-    <discord_url>https://discord.gg/TtkcWbv</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>57A7D307-C34A-472A-B545-EB12058F71AB</id>
-    <name>LostWoodsAC</name>
-    <description>AC Custom Progression Server</description>
-    <emu>ACE</emu>
-    <server_host>LostWoodsAc.hopto.org</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/ZwQkCdx</discord_url>
+    <discord_url>https://discord.gg/tHEe7QU</discord_url>
   </ServerItem>
   <ServerItem>
     <id>394C58D0-885D-466B-B17F-D7E0B96FE3E2</id>
@@ -169,16 +49,16 @@
     <discord_url>https://goo.gl/mUEu6g</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>b3dd2b22-4292-4b52-9099-8c570e87b1ab</id>
-    <name>Thistlecrown</name>
-    <description>Everyone welcome! 3 account limit. Recreation of TD.</description>
+    <id>689438de-0109-4a01-9d2b-d47c0b2bc0e9</id>
+    <name>Levistras</name>
+    <description>A 100% Botting-Free PvE Server! Open access! 2 account limit</description>
     <emu>ACE</emu>
-    <server_host>thistlecrown.ddns.net</server_host>
+    <server_host>levistras.acportalstorm.com</server_host>
     <server_port>9000</server_port>
-    <type>PVE</type>
-    <status>Stable</status>
+    <type>PvE</type>
+    <status></status>
     <website_url></website_url>
-    <discord_url>https://discord.gg/uhZ3hn7</discord_url>
+    <discord_url>https://discord.gg/TtkcWbv</discord_url>
   </ServerItem>
   <ServerItem>
     <id>451008a9-d83f-41c9-b4c5-836988e15d93</id>
@@ -191,5 +71,137 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/uWUgNv2yDP</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>26d9ec3d-9fbf-4fda-95f9-8d87e005ae3a</id>
+    <name>Coldeve</name>
+    <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator.</description>
+    <emu>ACE</emu>
+    <server_host>play.coldeve.online</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/nUR4PHe</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>b3dd2b22-4292-4b52-9099-8c570e87b1ab</id>
+    <name>Thistlecrown</name>
+    <description>Everyone welcome! 3 account limit. Recreation of TD.</description>
+    <emu>ACE</emu>
+    <server_host>thistlecrown.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/uhZ3hn7</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
+    <name>AChard</name>
+    <description>PvP ACE Retail Server including modifications from FX's twisted sick mind...</description>
+    <emu>ACE</emu>
+    <server_host>a-chard.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Development</status>
+    <website_url>http://ac.circleofseven.com</website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
+    <name>FunkyTown</name>
+    <description>Retail with a little bit of Funky</description>
+    <emu>GDL</emu>
+    <server_host>funkytownac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://funkytownac.com</website_url>
+    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
+    <name>Frostcull</name>
+    <description>NO LEVEL/ATTRIBUTE CAP! 10x XP/Luminance, 25x Drop Rate, Quest Timers Reduced By 90%!</description>
+    <emu>ACE</emu>
+    <server_host>frostcull.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/RQF7HgEZn4</discord_url>
+  </ServerItem> 
+  <ServerItem>
+    <id>71eb9232-d22c-421b-a6ca-7b8c54821573</id>
+    <name>asheron4fun.com</name>
+    <description>A PVE ACE server with End of Retail + easy mode content. (4 Accounts at once limit)</description>
+    <emu>ACE</emu>
+    <server_host>www.asheron4fun.com</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Stable</status>
+    <website_url>https://www.asheron4fun.com/</website_url>
+    <discord_url>https://discord.gg/afnQNXj</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>7d1eba44-5b6f-417c-948d-2607d6f54bcc</id>
+    <name>Duskfall</name>
+    <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
+    <emu>ACE</emu>
+    <server_host>74.208.43.194</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/jH7uYyF8gp</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>24146524-64c8-4088-8423-ef7741679844</id>
+    <name>Harvestpain</name>
+    <description>A PVE ACE server with a End of Retail experience. 5 account limit with botting allowed.</description>
+    <emu>ACE</emu>
+    <server_host>harvestpain.duckdns.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
+  </ServerItem>
+    <ServerItem>
+    <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
+    <name>ACPrime</name>
+    <description>A PvE 'no grinding' group of players.</description>
+    <emu>ACE</emu>
+    <server_host>asheronscall.hopto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/VSFtYXN3v7</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>0D516A4A-14A4-4570-ADD7-95F83AF0246F</id>
+    <name>Jellocull</name>
+    <description>A PVE Server to mimic retail and later add custom content. </description>
+    <emu>ACE</emu>
+    <server_host>ac.jellocull.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/snv52pX</discord_url>
+  </ServerItem>  
+  <ServerItem>
+    <id>57A7D307-C34A-472A-B545-EB12058F71AB</id>
+    <name>LostWoodsAC</name>
+    <description>AC Custom Progression Server</description>
+    <emu>ACE</emu>
+    <server_host>LostWoodsAc.hopto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/ZwQkCdx</discord_url>
   </ServerItem>
 </ArrayOfServerItem>
