@@ -205,18 +205,6 @@
     <discord_url>https://discord.gg/snv52pX</discord_url>
   </ServerItem>  
   <ServerItem>
-    <id>57A7D307-C34A-472A-B545-EB12058F71AB</id>
-    <name>LostWoodsAC</name>
-    <description>AC Custom Progression Server</description>
-    <emu>ACE</emu>
-    <server_host>LostWoodsAc.hopto.org</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/ZwQkCdx</discord_url>
-  </ServerItem>
-    <ServerItem>
     <id>21583914-e252-458e-b61f-dbaef7be598a</id>
     <name>Fizzletide</name>
     <description>Where all the PvP happens</description>
