@@ -243,7 +243,7 @@
   <ServerItem>
     <id>84eb66f2-8a16-49e4-aaae-00f104464fb6</id>
     <name>Morgentau</name>
-    <description>A PVE server with some server side portal bots. Max. 7 accounts per IP.</description>
+    <description>A PVE server with some server side portal bots.  Max. 7 accounts per IP.</description>
     <emu>ACE</emu>
     <server_host>morgentau.online</server_host>
     <server_port>9000</server_port>
