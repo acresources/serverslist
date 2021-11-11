@@ -205,18 +205,6 @@
     <discord_url>https://discord.gg/snv52pX</discord_url>
   </ServerItem>  
   <ServerItem>
-    <id>21583914-e252-458e-b61f-dbaef7be598a</id>
-    <name>Fizzletide</name>
-    <description>Where all the PvP happens</description>
-    <emu>ACE</emu>
-    <server_host>fizzletide.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/Vz2AgCEpXf</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>159e672d-4062-424c-9575-60ba94ae490c</id>
     <name>IsparAC</name>
     <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP </description>
@@ -252,7 +240,7 @@
     <website_url>https://forum.morgentau.online/</website_url>
     <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
   </ServerItem>
-    <ServerItem>
+  <ServerItem>
     <id>d5ff0630-42f0-11ec-81d3-0242ac130003</id>
     <name>Podtide</name>
     <description>Where the PvP happens</description>
