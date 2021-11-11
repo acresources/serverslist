@@ -25,6 +25,18 @@
     <discord_url>https://discord.gg/tHEe7QU</discord_url>
   </ServerItem>
   <ServerItem>
+    <id>a7502ac9-0cec-4caf-b81c-b3eb40a4689a</id>
+    <name>Reefcull</name>
+    <description>A PVE Server thats goal is to mimic end of game retail.</description>
+    <emu>GDL</emu>
+    <server_host>reefcull.gdleac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.com/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>394C58D0-885D-466B-B17F-D7E0B96FE3E2</id>
     <name>Seedsow</name>
     <description>A PVE Dark Majesty server must use classic AC .dats</description>
@@ -193,16 +205,52 @@
     <discord_url>https://discord.gg/snv52pX</discord_url>
   </ServerItem>  
   <ServerItem>
-    <id>57A7D307-C34A-472A-B545-EB12058F71AB</id>
-    <name>LostWoodsAC</name>
-    <description>AC Custom Progression Server</description>
+    <id>21583914-e252-458e-b61f-dbaef7be598a</id>
+    <name>Fizzletide</name>
+    <description>Where all the PvP happens</description>
     <emu>ACE</emu>
-    <server_host>LostWoodsAc.hopto.org</server_host>
+    <server_host>fizzletide.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/Vz2AgCEpXf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>159e672d-4062-424c-9575-60ba94ae490c</id>
+    <name>IsparAC</name>
+    <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP </description>
+    <emu>ACE</emu>
+    <server_host>ispar.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/X8YUAPftXQ</discord_url>
+  </ServerItem>
+   <ServerItem>
+    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
+    <name>GDLE Test</name>
+    <description>Test server for Reefcull and Harvestbud servers. Only online for testing purposes.</description>
+    <emu>GDL</emu>
+    <server_host>test.gdleac.com</server_host>
+    <server_port>9050</server_port>
+    <type></type>
     <status></status>
     <website_url></website_url>
-    <discord_url>https://discord.gg/ZwQkCdx</discord_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>84eb66f2-8a16-49e4-aaae-00f104464fb6</id>
+    <name>Morgentau</name>
+    <description>A PVE server with some server side portal bots.  Max. 7 accounts per IP.</description>
+    <emu>ACE</emu>
+    <server_host>morgentau.online</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Development</status>
+    <website_url>https://forum.morgentau.online/</website_url>
+    <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
   </ServerItem>
     <ServerItem>
     <id>d5ff0630-42f0-11ec-81d3-0242ac130003</id>
