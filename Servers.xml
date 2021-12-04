@@ -25,6 +25,18 @@
     <discord_url>https://discord.gg/tHEe7QU</discord_url>
   </ServerItem>
   <ServerItem>
+    <id>a7502ac9-0cec-4caf-b81c-b3eb40a4689a</id>
+    <name>Reefcull</name>
+    <description>A PVE Server thats goal is to mimic end of game retail.</description>
+    <emu>GDL</emu>
+    <server_host>reefcull.gdleac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.com/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>394C58D0-885D-466B-B17F-D7E0B96FE3E2</id>
     <name>Seedsow</name>
     <description>A PVE Dark Majesty server must use classic AC .dats</description>
@@ -49,66 +61,6 @@
     <discord_url>https://goo.gl/mUEu6g</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>A36BAB53-257E-4DA2-A9CA-A3DD7059F73C</id>
-    <name>Darkside</name>
-    <description>A PVP server like end of game retail with events.</description>
-    <emu>GDL</emu>
-    <server_host>darkside.damnserver.com</server_host>
-    <server_port>9006</server_port>
-    <type>PvP</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/5qYNzkH</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>1C9CBF34-8E18-4FC5-9C90-71959D3D7A67</id>
-    <name>Reaptide</name>
-    <description>Full Loot Drop On PVP Death.</description>
-    <emu>GDL</emu>
-    <server_host>reaptide.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/uHZ3PtK</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>40ACC530-BD87-4878-A85C-13D0AA1FF981</id>
-    <name>NoESCape</name>
-    <description>Casual server with modifications.</description>
-    <emu>GDL</emu>
-    <server_host>noescape.sytes.net</server_host>
-    <server_port>9000</server_port>
-    <type></type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/FmMbpK5</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
-    <name>GDLE Test</name>
-    <description>Test server for Reefcull and Harvestbud servers.</description>
-    <emu>GDL</emu>
-    <server_host>test.gdleac.com</server_host>
-    <server_port>9050</server_port>
-    <type></type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/jd3dEJf</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>8ac78e2e-b4c3-4afb-9026-6e0e38d63e42</id>
-    <name>Bot Net</name>
-    <description>A PvP server that will resemble end of retail with some modifications.</description>
-    <emu>GDL</emu>
-    <server_host>BotNet.ServeBeer.com</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/Kmnmyqv</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>689438de-0109-4a01-9d2b-d47c0b2bc0e9</id>
     <name>Levistras</name>
     <description>A 100% Botting-Free PvE Server! Open access! 2 account limit</description>
@@ -119,18 +71,6 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/TtkcWbv</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>377b63e2-f16c-4850-9a03-dc1cb10c84b1</id>
-    <name>Dawnsong</name>
-    <description>European PvE Server.</description>
-    <emu>ACE</emu>
-    <server_host>dawnsong.asheron.online</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status></status>
-    <website_url>http://asheron.online</website_url>
-    <discord_url></discord_url>
   </ServerItem>
   <ServerItem>
     <id>451008a9-d83f-41c9-b4c5-836988e15d93</id>
@@ -157,30 +97,6 @@
     <discord_url>https://discord.gg/nUR4PHe</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>57149c07-676d-4daf-becf-d82ced8bc883</id>
-    <name>Frozenvalley</name>
-    <description>An ACEmulator PVE server working to an End of Retail+ goal. (3 Account Limit)</description>
-    <emu>ACE</emu>
-    <server_host>174.138.182.209</server_host>
-    <server_port>9000</server_port>
-    <type>PVE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/JhkKr3Y</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>3db7fcbf-9b9b-41c0-85a5-1d538e24490c</id>
-    <name>Living Auberean</name>
-    <description>A PVE ACE server with End of Retail + custom content. (3 Account Limit)</description>
-    <emu>ACE</emu>
-    <server_host>63.226.232.178</server_host>
-    <server_port>9000</server_port>
-    <type>PVE</type>
-    <status>Stable</status>
-    <website_url>http://www.livingauberean.com/</website_url>
-    <discord_url>https://discord.gg/BefJujR</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>b3dd2b22-4292-4b52-9099-8c570e87b1ab</id>
     <name>Thistlecrown</name>
     <description>Everyone welcome! 3 account limit. Recreation of TD.</description>
@@ -202,8 +118,8 @@
     <type>PvP</type>
     <status>Development</status>
     <website_url>http://ac.circleofseven.com</website_url>
-    <discord_url>https://discord.gg/CWr2ezpgjE</discord_url>
-  </ServerItem> 
+    <discord_url></discord_url>
+  </ServerItem>
   <ServerItem>
     <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
     <name>FunkyTown</name>
@@ -215,7 +131,7 @@
     <status>Stable</status>
     <website_url>https://funkytownac.com</website_url>
     <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
-  </ServerItem>  
+  </ServerItem>
   <ServerItem>
     <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
     <name>Frostcull</name>
@@ -263,5 +179,77 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
+  </ServerItem>
+    <ServerItem>
+    <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
+    <name>ACPrime</name>
+    <description>A PvE 'no grinding' group of players.</description>
+    <emu>ACE</emu>
+    <server_host>asheronscall.hopto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/VSFtYXN3v7</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>0D516A4A-14A4-4570-ADD7-95F83AF0246F</id>
+    <name>Jellocull</name>
+    <description>A PVE Server to mimic retail and later add custom content. </description>
+    <emu>ACE</emu>
+    <server_host>ac.jellocull.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/snv52pX</discord_url>
+  </ServerItem>  
+  <ServerItem>
+    <id>159e672d-4062-424c-9575-60ba94ae490c</id>
+    <name>IsparAC</name>
+    <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP </description>
+    <emu>ACE</emu>
+    <server_host>ispar.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/X8YUAPftXQ</discord_url>
+  </ServerItem>
+   <ServerItem>
+    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
+    <name>GDLE Test</name>
+    <description>Test server for Reefcull and Harvestbud servers. Only online for testing purposes.</description>
+    <emu>GDL</emu>
+    <server_host>test.gdleac.com</server_host>
+    <server_port>9050</server_port>
+    <type></type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>84eb66f2-8a16-49e4-aaae-00f104464fb6</id>
+    <name>Morgentau</name>
+    <description>A PVE server with some server side portal bots.  Max. 7 accounts per IP.</description>
+    <emu>ACE</emu>
+    <server_host>morgentau.online</server_host>
+    <server_port>9000</server_port>
+    <type>PVE</type>
+    <status>Development</status>
+    <website_url>https://forum.morgentau.online/</website_url>
+    <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>d5ff0630-42f0-11ec-81d3-0242ac130003</id>
+    <name>Podtide</name>
+    <description>Where the PvP happens</description>
+    <emu>ACE</emu>
+    <server_host>podtide.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/Exrhgj8dKV</discord_url>
   </ServerItem>
 </ArrayOfServerItem>
