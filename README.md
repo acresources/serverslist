@@ -1,6 +1,6 @@
 # AC Servers
 * This is central repository for AC emulated servers, managed by the community.  
-* To add or update your server, please submit a pull request.
+* To add, update, or remove your server, please see the [Wiki](https://github.com/acresources/serverslist/wiki).
 * This list is open to the community and can be considered "Wild Wild West"
 * It's not the function of this list to provide "official" or "preferred" status
 
@@ -52,8 +52,8 @@
 * There are several community members that can approve pull requests.
 
 #### Are servers ever removed or rejected?
-* Only under extreme circumstances will a server be removed from this list
-* The specific reasons aren't defined, but they might include the following;
+* Servers may be removed from the list after long periods of inactivity or via [Pull Request](https://github.com/amoeba/serverslist/pulls) by the original contributer of the server to the list
+* Other reasons for removal or rejection of a server may include:
   * Servers with the intent or functions to exploit their clients
 
 ## Other Resources
