@@ -372,4 +372,28 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/FsNtVdE3ET</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
+    <name>Reefcull</name>
+    <description>Retail experience.</description>
+    <emu>GDLE</emu>
+    <server_host>reefcull.gdleac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status></status>
+    <website_url>gdleac.com</website_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
+    <name>Harvestbud</name>
+    <description>Retail experience. 3 account max</description>
+    <emu>GDLE</emu>
+    <server_host>harvestbud.gdleac.com</server_host>
+    <server_port>9000</server_port>
+    <type></type>
+    <status></status>
+    <website_url>gdleac.com</website_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
