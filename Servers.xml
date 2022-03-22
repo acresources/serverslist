@@ -126,7 +126,7 @@
     <description>Retail with a little bit of Funky</description>
     <emu>GDL</emu>
     <server_host>funkytownac.com</server_host>
-    <server_port>9000</server_port>
+    <server_port>9050</server_port>
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://funkytownac.com</website_url>
