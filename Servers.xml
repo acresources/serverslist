@@ -249,8 +249,8 @@
     <server_port>9000</server_port>
     <type>PvP</type>
     <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/Exrhgj8dKV</discord_url>
+    <website_url>http://podtide.com/</website_url>
+    <discord_url>https://discord.gg/MQEfzwTddG</discord_url>
   </ServerItem>
   <ServerItem>
     <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
