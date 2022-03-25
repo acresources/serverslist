@@ -276,4 +276,16 @@
     <website_url></website_url>
     <discord_url></discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>0f5cd135-9d46-48d4-abc1-b59f4cde901f</id>
+    <name>Derptide</name>
+    <description>EOR server that pushes custom content and Qol changes, All quest weapons have been upgraded to be useful, and usable. No quest item will EVER be better than lootgen, Live events, Ongoing story arcs. and TONS of tailoring options.</description>
+    <emu>ACE</emu>
+    <server_host>ac.derptide.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://derptide.net</website_url>
+    <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
