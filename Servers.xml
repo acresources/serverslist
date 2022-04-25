@@ -126,7 +126,7 @@
     <description>Retail with a little bit of Funky</description>
     <emu>GDL</emu>
     <server_host>funkytownac.com</server_host>
-    <server_port>9000</server_port>
+    <server_port>9050</server_port>
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://funkytownac.com</website_url>
@@ -161,7 +161,7 @@
     <name>Duskfall</name>
     <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
     <emu>ACE</emu>
-    <server_host>74.208.43.194</server_host>
+    <server_host>ac.duskfall.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
@@ -249,7 +249,43 @@
     <server_port>9000</server_port>
     <type>PvP</type>
     <status>Stable</status>
+    <website_url>http://podtide.com/</website_url>
+    <discord_url>https://discord.gg/MQEfzwTddG</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
+    <name>Morntide</name>
+    <description>PvE 3-account limit end-of-retail server.</description>
+    <emu>ACE</emu>
+    <server_host>morntide.shard.ac</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://morntide.ac</website_url>
+    <discord_url>https://discord.gg/7Gcc2XFqhJ</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>94bb861b-5ca2-4105-bc1b-d41519301780</id>
+    <name>Modclaim</name>
+    <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator with addition of "persistent arrows".</description>
+    <emu>ACE</emu>
+    <server_host>ngc1069.dynamic-dns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
     <website_url></website_url>
-    <discord_url>https://discord.gg/Exrhgj8dKV</discord_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>0f5cd135-9d46-48d4-abc1-b59f4cde901f</id>
+    <name>Derptide</name>
+    <description>EOR server that pushes custom content and Qol changes, All quest weapons have been upgraded to be useful, and usable. No quest item will EVER be better than lootgen, Live events, Ongoing story arcs. and TONS of tailoring options.</description>
+    <emu>ACE</emu>
+    <server_host>ac.derptide.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://derptide.net</website_url>
+    <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
   </ServerItem>
 </ArrayOfServerItem>
