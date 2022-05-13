@@ -312,4 +312,16 @@
     <website_url>gdleac.com</website_url>
     <discord_url>https://discord.gg/jd3dEJf</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>ce4ae843-7afa-48ea-82bb-21b25301e1c9</id>
+    <name>Hightide</name>
+    <description>PvP Testing grounds</description>
+    <emu>GDLE</emu>
+    <server_host>158.69.54.138</server_host>
+    <server_port>9080</server_port>
+    <type></type>
+    <status></status>
+    <website_url>gdleac.com</website_url>
+    <discord_url></discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
