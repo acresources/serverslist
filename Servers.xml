@@ -288,4 +288,16 @@
     <website_url>https://derptide.net</website_url>
     <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>0bc928ba-7f03-4052-8436-33fc6612add5</id>
+    <name>Shadowland</name>
+    <description>A PVE Server thats goal is to mimic end of game retail.  No max on accounts or sessions.</description>
+    <emu>ACE</emu>
+    <server_host>shadowland.zapto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>WIP</website_url>
+    <discord_url>WIP</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
