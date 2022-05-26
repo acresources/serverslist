@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+    <ServerItem>
+    <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
+    <name>Infinite Frosthaven</name>
+    <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content. </description>
+    <emu>ACE</emu>
+    <server_host>ifh.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/zdQVP7bmjC</discord_url>
+  </ServerItem>
   <ServerItem>
     <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
     <name>FrostfACE</name>
