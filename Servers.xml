@@ -336,4 +336,16 @@
     <website_url>WIP</website_url>
     <discord_url>WIP</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>b1918d04-1cb3-45c9-84c9-d5b2490b610b</id>
+    <name>DarkSide-PK</name>
+    <description>ACE Retail PVP Server,Content,Updates,Quest,Dungeons. Dedicated US Server</description>
+    <emu>ACE</emu>
+    <server_host>daksidegaming.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>WIP</website_url>
+    <discord_url>WIP</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
