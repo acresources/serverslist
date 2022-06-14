@@ -2,6 +2,18 @@
 <ArrayOfServerItem>
     <ServerItem>
     <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
+    <name>Bio Dome</name>
+    <description>End of Retail PvP Server w/ Quality of Life Mods: Instant LvL 100, No Vitae, Ancient Armor & Starting Weapons/MMDS on start, 2x XP, 5x Epic Drop, Mansion Rank 1, 3x Trophies, 5x Cantrip Drop</description>
+    <emu>ACE</emu>
+    <server_host>BioDomeAC.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/K6A6n2eJZp</discord_url>
+  </ServerItem>
+    <ServerItem>
+    <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
     <name>Infinite Frosthaven</name>
     <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content. </description>
     <emu>ACE</emu>
