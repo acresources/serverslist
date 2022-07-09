@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+    <ServerItem>
+    <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
+    <name>Infinite Frosthaven</name>
+    <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content. </description>
+    <emu>ACE</emu>
+    <server_host>ifh.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/zdQVP7bmjC</discord_url>
+  </ServerItem>
   <ServerItem>
     <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
     <name>FrostfACE</name>
@@ -111,14 +123,14 @@
   <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
     <name>AChard</name>
-    <description>PvP ACE Retail Server including modifications from FX's twisted sick mind...</description>
+    <description>ACE Retail PVP Server,Custom PK Content,PK Kill Ranking</description>
     <emu>ACE</emu>
     <server_host>a-chard.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
-    <status>Development</status>
-    <website_url>http://ac.circleofseven.com</website_url>
-    <discord_url></discord_url>
+    <status>Stable</status>
+    <website_url>http://ac.circleofseven.com/</website_url>
+    <discord_url>https://discord.gg/gmHfqt2J2D</discord_url>
   </ServerItem>
   <ServerItem>
     <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
@@ -126,7 +138,7 @@
     <description>Retail with a little bit of Funky</description>
     <emu>GDL</emu>
     <server_host>funkytownac.com</server_host>
-    <server_port>9000</server_port>
+    <server_port>9050</server_port>
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://funkytownac.com</website_url>
@@ -161,7 +173,7 @@
     <name>Duskfall</name>
     <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
     <emu>ACE</emu>
-    <server_host>74.208.43.194</server_host>
+    <server_host>ac.duskfall.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
@@ -251,5 +263,89 @@
     <status>Stable</status>
     <website_url>http://podtide.com/</website_url>
     <discord_url>https://discord.gg/MQEfzwTddG</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
+    <name>Morntide</name>
+    <description>PvE 3-account limit end-of-retail server.</description>
+    <emu>ACE</emu>
+    <server_host>morntide.shard.ac</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://morntide.ac</website_url>
+    <discord_url>https://discord.gg/7Gcc2XFqhJ</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>94bb861b-5ca2-4105-bc1b-d41519301780</id>
+    <name>Modclaim</name>
+    <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator with addition of "persistent arrows".</description>
+    <emu>ACE</emu>
+    <server_host>ngc1069.dynamic-dns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>0f5cd135-9d46-48d4-abc1-b59f4cde901f</id>
+    <name>Derptide</name>
+    <description>EOR server that pushes custom content and Qol changes, All quest weapons have been upgraded to be useful, and usable. No quest item will EVER be better than lootgen, Live events, Ongoing story arcs. and TONS of tailoring options.</description>
+    <emu>ACE</emu>
+    <server_host>ac.derptide.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://derptide.net</website_url>
+    <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>f023fbf9-caab-4745-8205-81c4d7c061ad</id>
+    <name>Harvestbud</name>
+    <description>Retail experience. 3 account max</description>
+    <emu>GDLE</emu>
+    <server_host>harvestbud.gdleac.com</server_host>
+    <server_port>9000</server_port>
+    <type></type>
+    <status></status>
+    <website_url>gdleac.com</website_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>ce4ae843-7afa-48ea-82bb-21b25301e1c9</id>
+    <name>Hightide</name>
+    <description>PvP Testing grounds</description>
+    <emu>GDLE</emu>
+    <server_host>158.69.54.138</server_host>
+    <server_port>9080</server_port>
+    <type></type>
+    <status></status>
+    <website_url>gdleac.com</website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>0bc928ba-7f03-4052-8436-33fc6612add5</id>
+    <name>Shadowland</name>
+    <description>A PVE Server thats goal is to mimic end of game retail.  No max on accounts or sessions.</description>
+    <emu>ACE</emu>
+    <server_host>shadowland.zapto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>WIP</website_url>
+    <discord_url>WIP</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>b1918d04-1cb3-45c9-84c9-d5b2490b610b</id>
+    <name>DarkSide-PK</name>
+    <description>*NEW* 3x PVP Server,Content,Updates,Quest,Dungeons. Dedicated US Server</description>
+    <emu>ACE</emu>
+    <server_host>darksidegaming.ddnsking.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>WIP</website_url>
+    <discord_url>WIP</discord_url>
   </ServerItem>
 </ArrayOfServerItem>
