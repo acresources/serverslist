@@ -352,7 +352,7 @@
     <id>aae6ada4-b22a-4efe-8aba-ef0f7e5a4a93</id>
     <name>ACE Classic PvP</name>
     <description>A PvP server that replicates the era of retail Feb 2005 Infiltration patch</description>
-    <emu>ACE</emu>
+    <emu>ACE-Classic</emu>
     <server_host>147.135.30.224</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
@@ -364,7 +364,7 @@
     <id>89dbfb9c-507b-43fc-ad88-f2b8f3401f1d</id>
     <name>ACE Classic PvE</name>
     <description>A PvE server that replicates the era of retail Feb 2005 Infiltration patch</description>
-    <emu>ACE</emu>
+    <emu>ACE-Classic</emu>
     <server_host>147.135.30.224</server_host>
     <server_port>9002</server_port>
     <type>PvE</type>
