@@ -269,7 +269,7 @@
     <name>Morntide</name>
     <description>PvE 3-account limit end-of-retail server.</description>
     <emu>ACE</emu>
-    <server_host>morntide.shard.ac</server_host>
+    <server_host>play.morntide.ac</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
