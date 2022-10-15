@@ -123,13 +123,13 @@
   <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
     <name>AChard</name>
-    <description>ACE Retail PVP Server,Custom PK Content,PK Kill Ranking</description>
+    <description>ACE EOR PVP Server/Custom PK Content/PK Kill Rankings</description>
     <emu>ACE</emu>
     <server_host>a-chard.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
     <status>Stable</status>
-    <website_url>http://ac.circleofseven.com/</website_url>
+    <website_url>http://a-chard.ddns.net/</website_url>
     <discord_url>https://discord.gg/gmHfqt2J2D</discord_url>
   </ServerItem>
   <ServerItem>
