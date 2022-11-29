@@ -137,36 +137,36 @@
     <name>FunkyTown 2.0</name>
     <description>Retail with a little bit of Funky</description>
     <emu>GDL</emu>
-    <server_host>ac.funkyac.ga</server_host>
+    <server_host>funkytownac.com</server_host>
     <server_port>9050</server_port>
     <type>PvE</type>
     <status>Stable</status>
-    <website_url>https://www.funkyac.ga</website_url>
-    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
+    <website_url>https://www.funkytownac.com/</website_url>
+    <discord_url>https://discord.gg/4gzFWTMu</discord_url>
   </ServerItem>
   <ServerItem>
     <id>74C3F06D-1D0C-4BCA-83DE-2C8EE342DFD0</id>
     <name>FunkyTown PK</name>
     <description>Retail with a little bit of Funky. PVP ONLY. Not moderated, No Warranties, No Refunds.</description>
     <emu>GDL</emu>
-    <server_host>ac.funkyac.ga</server_host>
+    <server_host>funkytownac.com</server_host>
     <server_port>9059</server_port>
     <type>PvP</type>
     <status>Stable</status>
-    <website_url>https://www.funkyac.ga</website_url>
-    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
+    <website_url>https://www.funkytownac.com/</website_url>
+    <discord_url>https://discord.gg/CHgzDYVk</discord_url>
   </ServerItem>
   <ServerItem>
     <id>C6848B06-CA87-4CD1-B615-0C2A9781D01C</id>
     <name>FunkyTEST</name>
     <description>FunkyTown 2.0 Test Server</description>
     <emu>GDL</emu>
-    <server_host>ac.funkyac.ga</server_host>
+    <server_host>funkytownac.com</server_host>
     <server_port>9055</server_port>
     <type>PvE</type>
     <status>Experimental</status>
-    <website_url>https://www.funkyac.ga</website_url>
-    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
+    <website_url>https://www.funkytownac.com/</website_url>
+    <discord_url>https://discord.gg/4gzFWTMu</discord_url>
   </ServerItem>
   <ServerItem>
     <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
