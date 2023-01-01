@@ -385,9 +385,9 @@
     <discord_url>https://discord.gg/C9Tu5yUYn2</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>aae6ada4-b22a-4efe-8aba-ef0f7e5a4a93</id>
-    <name>ACE Classic PvP</name>
-    <description>A PvP server that replicates the era of retail Feb 2005 Infiltration patch</description>
+    <id>4db379b0-587a-4775-9b7f-879e0f15ba4b</id>
+    <name>Dekarutide</name>
+    <description>ACE-Classic Dark Majesty era custom server, with new skills, techniques, tactics, endless hybrid template possibilities.</description>
     <emu>ACE</emu>
     <server_host>147.135.30.224</server_host>
     <server_port>9000</server_port>
@@ -395,18 +395,6 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/GbAtfwNwKj</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>89dbfb9c-507b-43fc-ad88-f2b8f3401f1d</id>
-    <name>ACE Classic PvE</name>
-    <description>A PvE server that replicates the era of retail Feb 2005 Infiltration patch</description>
-    <emu>ACE</emu>
-    <server_host>147.135.30.224</server_host>
-    <server_port>9002</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/DEnCWW4N4p</discord_url>
   </ServerItem>
   <ServerItem>
     <id>1528da56-f52c-4e84-947c-a814255c7a23</id>
