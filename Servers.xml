@@ -179,7 +179,7 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/RQF7HgEZn4</discord_url>
-  </ServerItem> 
+  </ServerItem>
   <ServerItem>
     <id>71eb9232-d22c-421b-a6ca-7b8c54821573</id>
     <name>asheron4fun.com</name>
@@ -204,18 +204,6 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/jH7uYyF8gp</discord_url>
   </ServerItem>
-  <ServerItem>
-    <id>24146524-64c8-4088-8423-ef7741679844</id>
-    <name>Harvestpain</name>
-    <description>A PVE ACE server with a End of Retail experience. 5 account limit with botting allowed.</description>
-    <emu>ACE</emu>
-    <server_host>harvestpain.duckdns.org</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
-  </ServerItem>
     <ServerItem>
     <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
     <name>ACPrime</name>
@@ -239,18 +227,6 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/snv52pX</discord_url>
-  </ServerItem>  
-  <ServerItem>
-    <id>159e672d-4062-424c-9575-60ba94ae490c</id>
-    <name>IsparAC</name>
-    <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP </description>
-    <emu>ACE</emu>
-    <server_host>ispar.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/X8YUAPftXQ</discord_url>
   </ServerItem>
    <ServerItem>
     <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
@@ -275,18 +251,6 @@
     <status>Development</status>
     <website_url>https://forum.morgentau.online/</website_url>
     <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>d5ff0630-42f0-11ec-81d3-0242ac130003</id>
-    <name>Podtide</name>
-    <description>Where the PvP happens</description>
-    <emu>ACE</emu>
-    <server_host>podtide.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Stable</status>
-    <website_url>http://podtide.com/</website_url>
-    <discord_url>https://discord.gg/MQEfzwTddG</discord_url>
   </ServerItem>
   <ServerItem>
     <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
