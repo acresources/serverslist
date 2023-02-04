@@ -1,47 +1,81 @@
-require 'uri'
-require 'net/http'
 require 'nokogiri'
-require 'json'
-require 'date'
 
-WORKSPACE_DIR = '/github/workspace'
-MONTHS_UNTIL_EXPIRED = 3
+class ServerList
+  def initialize(xml)
+    @doc = Nokogiri::XML(xml)
+  end 
 
-class FetchTreeStatsServers
-  def call
-    response = submit_request
-    parse(response)
+  def remove(ids)
+    @doc
+      .css("ArrayOfServerItem ServerItem")
+      .select { |e| ids.include?(e.at_css('id').content) }
+      .each(&:remove)
   end
-
-  private
-
-  def submit_request
-    Net::HTTP.get_response(URI('https://servers.treestats.net/api/servers/'))
-  end
-
-  def parse(response)
-    JSON
-      .parse(response.body)
-      .map do |server| 
-        { 
-          id: server['guid'],
-          last_seen: DateTime.parse(server.dig('status','last_seen')) 
-        }
-      end
+  
+  def to_xml
+    @doc.to_s
   end
 end
 
-servers = FetchTreeStatsServers.new.call
+require 'uri'
+require 'net/http'
+require 'json'
 
-expire_time = DateTime.now.prev_month(MONTHS_UNTIL_EXPIRED)
-expired_servers = servers.select { |s| s[:last_seen] <= expire_time}
-expired_server_ids = expired_servers.map { |s| s[:id] }
+require 'date'
 
-contents = File.read("#{WORKSPACE_DIR}/Servers.xml")
-doc = Nokogiri::XML(contents)
+class Server
+  MONTHS_TIL_EXPIRED = 3
+  attr_reader :id, :last_seen
 
-doc.css("ArrayOfServerItem ServerItem")
-  .select { |element| expired_server_ids.include?(element.at_css('id').content) }
-  .each(&:remove)
+  def initialize(id: , last_seen:)
+    @id = id
+    @last_seen = last_seen
+  end
 
-File.write("#{WORKSPACE_DIR}/Servers.xml", doc.to_s)
+  def expired?
+    @last_seen <= DateTime.now.prev_month(MONTHS_TIL_EXPIRED)
+  end
+end
+
+module TreeStats
+  class Servers
+    def self.all
+      response = fetch
+      parse(response.body)
+    end
+
+    def self.expired
+      all.select(&:expired?)
+    end
+  
+    def self.fetch
+      Net::HTTP.get_response(URI('https://servers.treestats.net/api/servers/'))
+    end
+  
+    def self.parse(body)
+      JSON
+        .parse(body)
+        .map do |server| 
+          Server.new(
+            id: server['guid'],
+            last_seen: DateTime.parse(server.dig('status', 'last_seen'))
+          )
+        end
+    end
+  end
+end
+
+FILE_PATH = '/github/workspace/Servers.xml'
+KEEP_PATH = '/github/workspace/keep'
+
+xml = File.read(FILE_PATH)
+server_list = ServerList.new(xml)
+expired = TreeStats::Servers.expired
+
+require 'csv'
+keep_ids = CSV.read(KEEP_PATH).flatten
+
+ids = expired.map(&:id).reject { |id| keep_ids.include?(id) }
+server_list.remove(ids)
+
+File.write(FILE_PATH, server_list.to_xml)
