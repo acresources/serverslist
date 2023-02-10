@@ -339,9 +339,9 @@
   <ServerItem>
     <id>a96497f0-16cf-4e04-b8f1-192346aef061</id>
     <name>Fathomless Refuge</name>
-    <description>Permanent XP/Lum Bonus for questing, Unlimited Levels and Attributes, Cloak and Pet Tinkering, Magic only obtained via questing, Quest Reward updates, Offline XP Gains</description>
+    <description>Weekly Quest System, Permanent XP/Lum Bonus for questing, Unlimited Levels and Attributes, Magic only obtained via questing, Quest Reward updates, Offline XP Gains</description>
     <emu>ACE</emu>
-    <server_host>104.168.249.55</server_host>
+    <server_host>23.254.209.233</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
