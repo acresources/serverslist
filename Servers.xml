@@ -44,7 +44,7 @@
     <server_host>reefcull.gdleac.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.com/jd3dEJf</discord_url>
   </ServerItem>
@@ -235,8 +235,8 @@
     <emu>GDL</emu>
     <server_host>test.gdleac.com</server_host>
     <server_port>9050</server_port>
-    <type></type>
-    <status></status>
+    <type>PvE</type>
+    <status>Development</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/jd3dEJf</discord_url>
   </ServerItem>
@@ -295,8 +295,8 @@
     <emu>GDLE</emu>
     <server_host>harvestbud.gdleac.com</server_host>
     <server_port>9000</server_port>
-    <type></type>
-    <status></status>
+    <type>PvE</type>
+    <status>Stable</status>
     <website_url>gdleac.com</website_url>
     <discord_url>https://discord.gg/jd3dEJf</discord_url>
   </ServerItem>
@@ -307,8 +307,8 @@
     <emu>GDLE</emu>
     <server_host>hightide.gdleac.com</server_host>
     <server_port>9010</server_port>
-    <type></type>
-    <status></status>
+    <type>PvP</type>
+    <status>Stable</status>
     <website_url>gdleac.com</website_url>
     <discord_url>https://discord.gg/YQpZuGgT8t</discord_url>
   </ServerItem>
