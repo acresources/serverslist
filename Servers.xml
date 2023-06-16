@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+  <ServerItem>
+    <id>a94b42cb-898c-4209-9246-82d21211aac1</id>
+    <name>Infinite Leaftide</name>
+    <description>Inifinite Level and Enlightenment, an Infinite Extended Retail Experience. Custom content, constant development and active community! </description>
+    <emu>ACE</emu>
+    <server_host>infiniteleaftide.online</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/KtNxP8CaZt</discord_url>
+  </ServerItem>
     <ServerItem>
     <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
     <name>Infinite Frosthaven</name>
