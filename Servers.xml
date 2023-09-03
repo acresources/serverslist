@@ -384,4 +384,16 @@
     <website_url>http://doctide.online</website_url>
     <discord_url>https://discord.gg/Qts4sF58H6</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>f7f27def-0664-4f83-a423-a39b7e136a81</id>
+    <name>ValHeel</name>
+    <description>A Post End-of-Retail expansion to the Asheron's Call we know and love! Hours of new questlines and content to explore. Customer mechanics not found on any other server! Start your journey in ValHeel today!</description>
+    <emu>ACE</emu>
+    <server_host>162.250.127.186</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/U5wxByySCt</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
