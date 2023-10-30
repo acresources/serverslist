@@ -267,13 +267,13 @@
   <ServerItem>
     <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
     <name>Morntide</name>
-    <description>PvE 3-account limit end-of-retail server.</description>
+    <description>PvE 3-account limit end-of-retail server with retro content additions. Requires MegaDat.</description>
     <emu>ACE</emu>
-    <server_host>play.morntide.ac</server_host>
+    <server_host>play.morntide.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
-    <website_url>https://morntide.ac</website_url>
+    <website_url>https://morntide.net</website_url>
     <discord_url>https://discord.gg/7Gcc2XFqhJ</discord_url>
   </ServerItem>
   <ServerItem>
