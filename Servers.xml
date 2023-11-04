@@ -396,4 +396,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/U5wxByySCt</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>150340eb-349b-402e-90b0-4bc3c7e06d11</id>
+    <name>Soulclaim</name>
+    <description>1.5x XP/Luminance - 2x Quest XP/Luminance - Custom starting items and content.</description>
+    <emu>ACE</emu>
+    <server_host>soulclaim.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/939ARjY</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
