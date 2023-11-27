@@ -408,4 +408,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/939ARjY</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>f8fb8a21-82dc-4421-99d4-f93159d06f5d</id>
+    <name>Revolution</name>
+    <description>A server for Emys Friends, Family, Acquaintances, and The Internet</description>
+    <emu>ACE</emu>
+    <server_host>72.46.58.36</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</stable>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
