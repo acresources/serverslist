@@ -416,7 +416,7 @@
     <server_host>72.46.58.36</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status>Stable</stable>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/xaNB8pT8SC</discord_url>
   </ServerItem>
