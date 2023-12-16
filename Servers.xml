@@ -298,7 +298,7 @@
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://derptide.net</website_url>
-    <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
+    <discord_url>https://discord.gg/3gDTBVtfAg</discord_url>
   </ServerItem>
   <ServerItem>
     <id>f023fbf9-caab-4745-8205-81c4d7c061ad</id>
@@ -389,8 +389,8 @@
     <name>ValHeel</name>
     <description>A Post End-of-Retail expansion to the Asheron's Call we know and love! Hours of new questlines and content to explore. Customer mechanics not found on any other server! Start your journey in ValHeel today!</description>
     <emu>ACE</emu>
-    <server_host>162.250.127.186</server_host>
-    <server_port>9000</server_port>
+    <server_host>vh.derptide.net</server_host>
+    <server_port>9012</server_port>
     <type>PvE</type>
     <status>Stable</status>
     <website_url></website_url>
