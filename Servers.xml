@@ -431,5 +431,17 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/TqmYRds98Q</discord_url>
-  </ServerItem> 
+  </ServerItem>
+  <ServerItem>
+    <id>eac23c07-66af-4224-baff-d26ccfaf5709</id>
+    <name>Sundering</name>
+    <description>The Sundering is a 3 active character limit, PVE server targeting an End of Retail feel with convenience modifications, custom content, and pre-planned weekend/weekday bonuses.</description>
+    <emu>ACE</emu>
+    <server_host>ace.sunderingac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>sunderingac.com</website_url>
+    <discord_url>https://discord.gg/XgHpcVbmJA</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
