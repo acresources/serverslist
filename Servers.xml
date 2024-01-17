@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>a94b42cb-898c-4209-9246-82d21211aac1</id>
+    <name>InfiniteLeaftide</name>
+    <description>Inifinite Level and Enlightenment, an Infinite Extended Retail Experience. Custom content, constant development and active community! </description>
+    <emu>ACE</emu>
+    <server_host>infiniteleaftide.online</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/KtNxP8CaZt</discord_url>
+  </ServerItem>
+    <ServerItem>
+    <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
+    <name>Infinite Frosthaven</name>
+    <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content. </description>
+    <emu>ACE</emu>
+    <server_host>ifh.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/zdQVP7bmjC</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
     <name>FrostfACE</name>
     <description>New accounts include lvl 275 starter characters. Retail character restoration also supported.</description>
@@ -21,8 +45,8 @@
     <server_port>9000</server_port>
     <type>PvE</type>
     <status></status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/tHEe7QU</discord_url>
+    <website_url>http://www.drunkenfell.com</website_url>
+    <discord_url>https://discord.gg/e365fBcuaB</discord_url>
   </ServerItem>
   <ServerItem>
     <id>a7502ac9-0cec-4caf-b81c-b3eb40a4689a</id>
@@ -32,7 +56,7 @@
     <server_host>reefcull.gdleac.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.com/jd3dEJf</discord_url>
   </ServerItem>
@@ -111,26 +135,50 @@
   <ServerItem>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
     <name>AChard</name>
-    <description>ACE Retail PVP Server,Custom PK Content,PK Kill Ranking</description>
+    <description>ACE EOR PVP Server/Custom PK Content/PK Kill Rankings</description>
     <emu>ACE</emu>
     <server_host>a-chard.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
     <status>Stable</status>
-    <website_url>http://ac.circleofseven.com/</website_url>
+    <website_url>http://a-chard.ddns.net/</website_url>
     <discord_url>https://discord.gg/gmHfqt2J2D</discord_url>
   </ServerItem>
   <ServerItem>
     <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
-    <name>FunkyTown</name>
+    <name>FunkyTown 2.0</name>
     <description>Retail with a little bit of Funky</description>
     <emu>GDL</emu>
     <server_host>funkytownac.com</server_host>
     <server_port>9050</server_port>
     <type>PvE</type>
     <status>Stable</status>
-    <website_url>https://funkytownac.com</website_url>
-    <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
+    <website_url>https://www.funkytownac.com/</website_url>
+    <discord_url>https://discord.gg/4gzFWTMu</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>74C3F06D-1D0C-4BCA-83DE-2C8EE342DFD0</id>
+    <name>FunkyTown PK</name>
+    <description>Retail with a little bit of Funky. PVP ONLY. Not moderated, No Warranties, No Refunds.</description>
+    <emu>GDL</emu>
+    <server_host>funkytownac.com</server_host>
+    <server_port>9059</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>https://www.funkytownac.com/</website_url>
+    <discord_url>https://discord.gg/CHgzDYVk</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>C6848B06-CA87-4CD1-B615-0C2A9781D01C</id>
+    <name>FunkyTEST</name>
+    <description>FunkyTown 2.0 Test Server</description>
+    <emu>GDL</emu>
+    <server_host>funkytownac.com</server_host>
+    <server_port>9055</server_port>
+    <type>PvE</type>
+    <status>Experimental</status>
+    <website_url>https://www.funkytownac.com/</website_url>
+    <discord_url>https://discord.gg/4gzFWTMu</discord_url>
   </ServerItem>
   <ServerItem>
     <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
@@ -143,14 +191,14 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/RQF7HgEZn4</discord_url>
-  </ServerItem> 
+  </ServerItem>
   <ServerItem>
     <id>71eb9232-d22c-421b-a6ca-7b8c54821573</id>
-    <name>asheron4fun.com</name>
-    <description>A PVE ACE server with End of Retail + easy mode content. (4 Accounts at once limit)</description>
+    <name>Asheron4Fun.com</name>
+    <description>A PVE ACE server with End of Retail + easy mode content.</description>
     <emu>ACE</emu>
     <server_host>www.asheron4fun.com</server_host>
-    <server_port>9000</server_port>
+    <server_port>9050</server_port>
     <type>PVE</type>
     <status>Stable</status>
     <website_url>https://www.asheron4fun.com/</website_url>
@@ -167,18 +215,6 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/jH7uYyF8gp</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>24146524-64c8-4088-8423-ef7741679844</id>
-    <name>Harvestpain</name>
-    <description>A PVE ACE server with a End of Retail experience. 5 account limit with botting allowed.</description>
-    <emu>ACE</emu>
-    <server_host>harvestpain.duckdns.org</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
   </ServerItem>
     <ServerItem>
     <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
@@ -203,18 +239,6 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/snv52pX</discord_url>
-  </ServerItem>  
-  <ServerItem>
-    <id>159e672d-4062-424c-9575-60ba94ae490c</id>
-    <name>IsparAC</name>
-    <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP </description>
-    <emu>ACE</emu>
-    <server_host>ispar.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/X8YUAPftXQ</discord_url>
   </ServerItem>
    <ServerItem>
     <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
@@ -223,8 +247,8 @@
     <emu>GDL</emu>
     <server_host>test.gdleac.com</server_host>
     <server_port>9050</server_port>
-    <type></type>
-    <status></status>
+    <type>PvE</type>
+    <status>Development</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/jd3dEJf</discord_url>
   </ServerItem>
@@ -241,27 +265,15 @@
     <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>d5ff0630-42f0-11ec-81d3-0242ac130003</id>
-    <name>Podtide</name>
-    <description>Where the PvP happens</description>
-    <emu>ACE</emu>
-    <server_host>podtide.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Stable</status>
-    <website_url>http://podtide.com/</website_url>
-    <discord_url>https://discord.gg/MQEfzwTddG</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
     <name>Morntide</name>
-    <description>PvE 3-account limit end-of-retail server.</description>
+    <description>PvE 3-account limit end-of-retail server with retro content additions. Requires MegaDat.</description>
     <emu>ACE</emu>
-    <server_host>morntide.shard.ac</server_host>
+    <server_host>play.morntide.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
-    <website_url>https://morntide.ac</website_url>
+    <website_url>https://morntide.net</website_url>
     <discord_url>https://discord.gg/7Gcc2XFqhJ</discord_url>
   </ServerItem>
   <ServerItem>
@@ -286,7 +298,31 @@
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://derptide.net</website_url>
-    <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
+    <discord_url>https://discord.gg/3gDTBVtfAg</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>f023fbf9-caab-4745-8205-81c4d7c061ad</id>
+    <name>Harvestbud</name>
+    <description>Retail experience. 3 account max</description>
+    <emu>GDLE</emu>
+    <server_host>harvestbud.gdleac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>gdleac.com</website_url>
+    <discord_url>https://discord.gg/jd3dEJf</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>ce4ae843-7afa-48ea-82bb-21b25301e1c9</id>
+    <name>Hightide</name>
+    <description>PvP grounds.  3 accounts max</description>
+    <emu>GDLE</emu>
+    <server_host>hightide.gdleac.com</server_host>
+    <server_port>9010</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>gdleac.com</website_url>
+    <discord_url>https://discord.gg/YQpZuGgT8t</discord_url>
   </ServerItem>
   <ServerItem>
     <id>0bc928ba-7f03-4052-8436-33fc6612add5</id>
@@ -298,6 +334,139 @@
     <type>PvE</type>
     <status>Stable</status>
     <website_url>WIP</website_url>
+    <discord_url>https://discord.gg/XwMFx9Jty2</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>b1918d04-1cb3-45c9-84c9-d5b2490b610b</id>
+    <name>DarkSide-PK</name>
+    <description>*NEW* 3x PVP Server,Content,Updates,Quest,Dungeons. Dedicated US Server</description>
+    <emu>ACE</emu>
+    <server_host>darksidegaming.ddnsking.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>WIP</website_url>
     <discord_url>WIP</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>a96497f0-16cf-4e04-b8f1-192346aef061</id>
+    <name>Fathomless Refuge</name>
+    <description>Weekly Quest System, Permanent XP/Lum Bonus for questing, Unlimited Levels and Attributes, Magic only obtained via questing, Quest Reward updates, Offline XP Gains</description>
+    <emu>ACE</emu>
+    <server_host>23.254.209.233</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/C9Tu5yUYn2</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>4db379b0-587a-4775-9b7f-879e0f15ba4b</id>
+    <name>Dekarutide</name>
+    <description>ACE-Classic Dark Majesty era custom PVE server with Hardcore PVE and Hardcore PK option, with new skills, techniques, tactics, endless hybrid template possibilities!</description>
+    <emu>ACE</emu>
+    <server_host>135.148.121.170</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://www.dekarutide.com/</website_url>
+    <discord_url>https://discord.gg/gTv9XMC8aN</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>1528da56-f52c-4e84-947c-a814255c7a23</id>
+    <name>Doctide</name>
+    <description>The place where PvP happens</description>
+    <emu>ACE</emu>
+    <server_host>doctide.online</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>http://doctide.online</website_url>
+    <discord_url>https://discord.gg/Qts4sF58H6</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>f7f27def-0664-4f83-a423-a39b7e136a81</id>
+    <name>ValHeel</name>
+    <description>A Post End-of-Retail expansion to the Asheron's Call we know and love! Hours of new questlines and content to explore. Customer mechanics not found on any other server! Start your journey in ValHeel today!</description>
+    <emu>ACE</emu>
+    <server_host>vh.derptide.net</server_host>
+    <server_port>9012</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/U5wxByySCt</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>150340eb-349b-402e-90b0-4bc3c7e06d11</id>
+    <name>Soulclaim</name>
+    <description>1.5x XP/Luminance - 2x Quest XP/Luminance - Custom starting items and content.</description>
+    <emu>ACE</emu>
+    <server_host>soulclaim.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/939ARjY</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>f8fb8a21-82dc-4421-99d4-f93159d06f5d</id>
+    <name>Revolution</name>
+    <description>A server for Emys Friends, Family, Acquaintances, and The Internet</description>
+    <emu>ACE</emu>
+    <server_host>72.46.58.36</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/xaNB8pT8SC</discord_url>
+  </ServerItem>
+   <ServerItem>
+    <id>395c0ff6-eb8e-40b4-a1e0-589853ce8c9a</id>
+    <name>Ascension</name>
+    <description>Progression to Level 1000, Several QOL changes, and Custom Content ongoing</description>
+    <emu>ACE</emu>
+    <server_host>207.177.65.139</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/TqmYRds98Q</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>eac23c07-66af-4224-baff-d26ccfaf5709</id>
+    <name>Sundering</name>
+    <description>The Sundering is a 3 active character limit, PVE server targeting an End of Retail feel with convenience modifications, custom content, and pre-planned weekend/weekday bonuses.</description>
+    <emu>ACE</emu>
+    <server_host>ace.sunderingac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>sunderingac.com</website_url>
+    <discord_url>https://discord.gg/XgHpcVbmJA</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>5d8d1a8a-3d29-4258-b52f-05f2455715ba</id>
+    <name>HARVESTreGAINed</name>
+    <description>End of retail with the popular opensource content like BeyondAC and New Roulea island and more added. Custom starting town and some quality of life changes. New accounts get a 1mill xp gem and some trade notes to start with. No account limits. 2000 player limit. Beefy Server Hardware. Active admin team. Looking for more players and recruiting staff. Website and discord under construction. See you in game.</description>
+    <emu>ACE</emu>
+    <server_host>harvestregained.claynet.xyz</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://harvestregained.claynet.xyz</website_url>
+    <discord_url>https://discord.gg/kcNv8QUN</discord_url>
+    
+  </ServerItem>  
+    <ServerItem>
+    <id>570d8e81-0689-45b5-be7c-463358fe5bd0</id>
+    <name>Arcane Sanctum</name>
+    <description>End-of-Retail/ACE Current. 10x XP/Lum. Increased Loot Quality chances. No Account Limit.</description>
+    <emu>ACE</emu>
+    <server_host>arcanesanctum.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/CNWD8nkajP</discord_url>
+  </ServerItem>  
 </ArrayOfServerItem>
