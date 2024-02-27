@@ -298,7 +298,7 @@
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://derptide.net</website_url>
-    <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
+    <discord_url>https://discord.gg/3gDTBVtfAg</discord_url>
   </ServerItem>
   <ServerItem>
     <id>f023fbf9-caab-4745-8205-81c4d7c061ad</id>
@@ -389,8 +389,8 @@
     <name>ValHeel</name>
     <description>A Post End-of-Retail expansion to the Asheron's Call we know and love! Hours of new questlines and content to explore. Customer mechanics not found on any other server! Start your journey in ValHeel today!</description>
     <emu>ACE</emu>
-    <server_host>162.250.127.186</server_host>
-    <server_port>9000</server_port>
+    <server_host>vh.derptide.net</server_host>
+    <server_port>9012</server_port>
     <type>PvE</type>
     <status>Stable</status>
     <website_url></website_url>
@@ -419,5 +419,53 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/xaNB8pT8SC</discord_url>
+  </ServerItem>
+   <ServerItem>
+    <id>395c0ff6-eb8e-40b4-a1e0-589853ce8c9a</id>
+    <name>Ascension</name>
+    <description>Progression to Level 1000, Several QOL changes, and Custom Content ongoing</description>
+    <emu>ACE</emu>
+    <server_host>207.177.65.139</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/TqmYRds98Q</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>eac23c07-66af-4224-baff-d26ccfaf5709</id>
+    <name>Sundering</name>
+    <description>The Sundering is a 3 active character limit, PVE server targeting an End of Retail feel with convenience modifications, custom content, and pre-planned weekend/weekday bonuses.</description>
+    <emu>ACE</emu>
+    <server_host>ace.sunderingac.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>sunderingac.com</website_url>
+    <discord_url>https://discord.gg/XgHpcVbmJA</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>5d8d1a8a-3d29-4258-b52f-05f2455715ba</id>
+    <name>HARVESTreGAINed</name>
+    <description>End of retail with the popular opensource content like BeyondAC and New Roulea island and more added. Custom starting town and some quality of life changes. New accounts get a 1mill xp gem and some trade notes to start with. No account limits. 2000 player limit. Beefy Server Hardware. Active admin team. Looking for more players and recruiting staff. Website and discord under construction. See you in game.</description>
+    <emu>ACE</emu>
+    <server_host>harvestregained.claynet.xyz</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://harvestregained.claynet.xyz</website_url>
+    <discord_url>https://discord.gg/kcNv8QUN</discord_url>
+  </ServerItem> 
+  <ServerItem>
+    <id>f90c1da3-5522-4219-8bd3-c2daa1cba6a3</id>
+    <name>Harvestgain_Originals</name>
+    <description>Old school original Harvestgain players!</description>
+    <emu>PVE</emu>
+    <server_host>206.206.165.175</server_host>
+    <server_port>9000</server_port>
+    <type>ACE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/Gh9ugXHQFH</discord_url>
   </ServerItem>
 </ArrayOfServerItem>

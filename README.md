@@ -3,6 +3,7 @@
 * To add, update, or remove your server, please see the [Wiki](https://github.com/acresources/serverslist/wiki).
 * This list is open to the community and can be considered "Wild Wild West"
 * It's not the function of this list to provide "official" or "preferred" status
+* Do not use direct retail server names as it will impact Treestats.  (Harvestgain_foo is ok.  Harvestgain is not.)
 
 ***
 ## Disclaimer
