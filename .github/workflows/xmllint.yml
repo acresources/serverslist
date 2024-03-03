@@ -6,7 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install xmllint
         run: sudo apt-get -y install libxml2-utils
       - name: Check that Servers.xml at least parses cleanly
