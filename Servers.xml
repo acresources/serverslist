@@ -447,14 +447,14 @@
   <ServerItem>
     <id>5d8d1a8a-3d29-4258-b52f-05f2455715ba</id>
     <name>HARVESTreGAINed</name>
-    <description>End of retail with the popular opensource content like BeyondAC and New Roulea island and more added. Custom starting town and some quality of life changes. New accounts get a 1mill xp gem and some trade notes to start with. No account limits. 2000 player limit. Beefy Server Hardware. Active admin team. Looking for more players and recruiting staff. Website and discord under construction. See you in game.</description>
+    <description>End of retail with custom starting area (BeyondAC), a New Roulea island, and some QOL fixes. New accounts get a 1mill xp gem and some trade notes to start with. Unlimited accounts. Active admin team. Currently 2X XP!!</description>
     <emu>ACE</emu>
     <server_host>harvestregained.claynet.xyz</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
     <website_url>https://harvestregained.claynet.xyz</website_url>
-    <discord_url>https://discord.gg/kcNv8QUN</discord_url>
+    <discord_url>https://discord.gg/aqNnHTqftH</discord_url>
   </ServerItem> 
   <ServerItem>
     <id>f90c1da3-5522-4219-8bd3-c2daa1cba6a3</id>
