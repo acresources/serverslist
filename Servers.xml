@@ -113,7 +113,7 @@
     <name>Coldeve</name>
     <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator.</description>
     <emu>ACE</emu>
-    <server_host>play.coldeve.online</server_host>
+    <server_host>play.coldeve.ac</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
