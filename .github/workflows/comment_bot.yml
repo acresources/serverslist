@@ -38,6 +38,7 @@ jobs:
         run: go build
       - name: Check server is up
         id: check
+        continue-on-error: true
         working-directory: ./ac-server-monitor
         run: |
           ./monitor -check ${{ steps.extract.outputs.ADDRESS }}
