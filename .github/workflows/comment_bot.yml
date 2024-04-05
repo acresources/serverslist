@@ -6,7 +6,7 @@ on:
 
 jobs:
   command_check:
-    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '!check') && github.event.comment.author_association == 'OWNER'
+    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '!check') && (github.event.comment.author_association == 'OWNER' || github.event.comment.author_association == 'COLLABORATOR')
     name: Perform Check
     runs-on: ubuntu-latest
     permissions:
