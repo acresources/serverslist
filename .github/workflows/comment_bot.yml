@@ -1,0 +1,63 @@
+name: Comment Bot
+
+on:
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  command_check:
+    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '!check') && github.event.comment.author_association == 'OWNER'
+    name: Perform Check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
+      id-token: write
+    steps:
+      - name: Extract address from comment
+        id: extract
+        run: |
+          echo "ADDRESS=$(echo ${{ github.event.comment.body }} | awk '{print $2}')" >> $GITHUB_OUTPUT
+      - uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '⏳ Checking if I can connect and log in to ${{ steps.extract.outputs.ADDRESS }}. Give me a minute...'
+            })
+      - name: Checkout ac-server-monitor
+        uses: actions/checkout@v4
+        with:
+          repository: 'amoeba/ac-server-monitor'
+          path: 'ac-server-monitor'
+      - name: Build ac-server-monitor
+        working-directory: ./ac-server-monitor
+        run: go build
+      - name: Check server is up
+        id: check
+        working-directory: ./ac-server-monitor
+        run: |
+          ./monitor -check ${{ steps.extract.outputs.ADDRESS }}
+      - uses: actions/github-script@v6
+        if: steps.check.outcome == 'success'
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ ${{ steps.extract.outputs.ADDRESS }} was up and I was able to log in!'
+            })
+      - uses: actions/github-script@v6
+        if: steps.check.outcome == 'failure'
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '🚫 ${{ steps.extract.outputs.ADDRESS }} was down or I couldn't log in.'
+            })
