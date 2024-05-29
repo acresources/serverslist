@@ -480,4 +480,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/dragonmoon</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>92ff8c3b-724d-4405-bccb-b58ba365f9f3</id>
+    <name>The Tower</name>
+    <description>Roguelite experience. Climb The Tower, defeat the bosses, and find the secrets within. Linear progression. WIP.</description>
+    <emu>ACE</emu>
+    <server_host>174.165.73.80</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/XKTzn8ejJE</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
