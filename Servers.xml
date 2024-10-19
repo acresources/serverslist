@@ -492,4 +492,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/XKTzn8ejJE</discord_url>
   </ServerItem>
+    <ServerItem>
+    <id>c75a1b92-84d9-489c-949c-c82fe3beecd0</id>
+    <name>Buadren AC</name>
+    <description>End of retail with quality of life additions. Small community - see discord!</description>
+    <emu>ACE</emu>
+    <server_host>gs1.buadren.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://buadren.com</website_url>
+    <discord_url>https://discord.gg/yMkzW3yAd4</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
