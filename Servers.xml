@@ -193,18 +193,6 @@
     <discord_url>https://discord.gg/afnQNXj</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>7d1eba44-5b6f-417c-948d-2607d6f54bcc</id>
-    <name>Duskfall</name>
-    <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
-    <emu>ACE</emu>
-    <server_host>ac.duskfall.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/jH7uYyF8gp</discord_url>
-  </ServerItem>
-    <ServerItem>
     <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
     <name>ACPrime</name>
     <description>A PvE 'no grinding' group of players.</description>
@@ -227,18 +215,6 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/snv52pX</discord_url>
-  </ServerItem>
-   <ServerItem>
-    <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
-    <name>GDLE Test</name>
-    <description>Test server for Reefcull and Harvestbud servers. Only online for testing purposes.</description>
-    <emu>GDL</emu>
-    <server_host>test.gdleac.com</server_host>
-    <server_port>9050</server_port>
-    <type>PvE</type>
-    <status>Development</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/jd3dEJf</discord_url>
   </ServerItem>
   <ServerItem>
     <id>84eb66f2-8a16-49e4-aaae-00f104464fb6</id>
@@ -325,30 +301,6 @@
     <discord_url>https://discord.gg/XwMFx9Jty2</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>b1918d04-1cb3-45c9-84c9-d5b2490b610b</id>
-    <name>DarkSide-PK</name>
-    <description>*NEW* 3x PVP Server,Content,Updates,Quest,Dungeons. Dedicated US Server</description>
-    <emu>ACE</emu>
-    <server_host>darksidegaming.ddnsking.com</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Stable</status>
-    <website_url>WIP</website_url>
-    <discord_url>WIP</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>a96497f0-16cf-4e04-b8f1-192346aef061</id>
-    <name>Fathomless Refuge</name>
-    <description>Weekly Quest System, Permanent XP/Lum Bonus for questing, Unlimited Levels and Attributes, Magic only obtained via questing, Quest Reward updates, Offline XP Gains</description>
-    <emu>ACE</emu>
-    <server_host>23.254.209.233</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/C9Tu5yUYn2</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>4db379b0-587a-4775-9b7f-879e0f15ba4b</id>
     <name>Dekarutide</name>
     <description>ACE-Classic Dark Majesty era custom PVE server with Hardcore PVE and Hardcore PK option, with new skills, techniques, tactics, endless hybrid template possibilities!</description>
@@ -373,18 +325,6 @@
     <discord_url>https://discord.gg/Qts4sF58H6</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>f7f27def-0664-4f83-a423-a39b7e136a81</id>
-    <name>ValHeel</name>
-    <description>A Post End-of-Retail expansion to the Asheron's Call we know and love! Hours of new questlines and content to explore. Customer mechanics not found on any other server! Start your journey in ValHeel today!</description>
-    <emu>ACE</emu>
-    <server_host>vh.derptide.net</server_host>
-    <server_port>9012</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/U5wxByySCt</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>150340eb-349b-402e-90b0-4bc3c7e06d11</id>
     <name>Soulclaim</name>
     <description>1.5x XP/Luminance - 2x Quest XP/Luminance - Custom starting items and content.</description>
@@ -397,30 +337,6 @@
     <discord_url>https://discord.gg/939ARjY</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>f8fb8a21-82dc-4421-99d4-f93159d06f5d</id>
-    <name>Revolution</name>
-    <description>A server for Emys Friends, Family, Acquaintances, and The Internet</description>
-    <emu>ACE</emu>
-    <server_host>72.46.58.36</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/xaNB8pT8SC</discord_url>
-  </ServerItem>
-   <ServerItem>
-    <id>395c0ff6-eb8e-40b4-a1e0-589853ce8c9a</id>
-    <name>Ascension</name>
-    <description>Progression to Level 1000, Several QOL changes, and Custom Content ongoing</description>
-    <emu>ACE</emu>
-    <server_host>207.177.65.139</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/TqmYRds98Q</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>eac23c07-66af-4224-baff-d26ccfaf5709</id>
     <name>Sundering</name>
     <description>The Sundering is a 3 active character limit, PVE server targeting an End of Retail feel with convenience modifications, custom content, and pre-planned weekend/weekday bonuses.</description>
@@ -431,30 +347,6 @@
     <status>Stable</status>
     <website_url>sunderingac.com</website_url>
     <discord_url>https://discord.gg/XgHpcVbmJA</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>5d8d1a8a-3d29-4258-b52f-05f2455715ba</id>
-    <name>HARVESTreGAINed</name>
-    <description>End of retail with custom starting area (BeyondAC), a New Roulea island, and some QOL fixes. New accounts get a 1mill xp gem and some trade notes to start with. Unlimited accounts. Active admin team. Currently 2X XP!!</description>
-    <emu>ACE</emu>
-    <server_host>harvestregained.claynet.xyz</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url>https://harvestregained.claynet.xyz</website_url>
-    <discord_url>https://discord.gg/aqNnHTqftH</discord_url>
-  </ServerItem>
-  <ServerItem>
-    <id>f90c1da3-5522-4219-8bd3-c2daa1cba6a3</id>
-    <name>Harvestgain_Originals</name>
-    <description>Old school original Harvestgain players!</description>
-    <emu>ACE</emu>
-    <server_host>206.206.165.175</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/Gh9ugXHQFH</discord_url>
   </ServerItem>
   <ServerItem>
     <id>5d207021-2a6c-4641-99f7-7175302d6365</id>
