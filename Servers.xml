@@ -384,7 +384,7 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/XKTzn8ejJE</discord_url>
   </ServerItem>
-    <ServerItem>
+  <ServerItem>
     <id>c75a1b92-84d9-489c-949c-c82fe3beecd0</id>
     <name>Buadren AC</name>
     <description>End of retail with quality of life additions. Small community - see discord!</description>
@@ -396,7 +396,7 @@
     <website_url>http://buadren.com</website_url>
     <discord_url>https://discord.gg/yMkzW3yAd4</discord_url>
   </ServerItem>
-  <serverItem>
+  <ServerItem>
     <id>71054b8d-ab82-439a-a78c-13fe176f8358</id>
     <name>Whiting</name>
     <description>A PVE Server. Stock ACE end-of-retail experience.</description>
@@ -407,5 +407,5 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/rmnZAcPavj</discord_url>
-  </serverItem>
+  </ServerItem>
 </ArrayOfServerItem>
