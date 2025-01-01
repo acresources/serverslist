@@ -399,7 +399,7 @@
   <serverItem>
     <id>71054b8d-ab82-439a-a78c-13fe176f8358</id>
     <name>Whiting</name>
-    <description>A PVE Server</description>
+    <description>A PVE Server. Stock ACE end-of-retail experience.</description>
     <emu>ACE</emu>
     <server_host>whitingace.ddns.net</server_host>
     <server_port>9000</server_port>
