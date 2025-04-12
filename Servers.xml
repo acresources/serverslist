@@ -408,4 +408,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/rmnZAcPavj</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>b0fda6d4-adfe-449f-ab72-384367e8c3d4</id>
+    <name>ValHeel</name>
+    <description>An enhanced PvE server, completely ahead of it's time. TONS of custom content to explore, with classes of DPS, Tank, or Healer. Many bugs have been squashed.</description>
+    <emu>ACE</emu>
+    <server_host>valheel.ddns.net</server_host>
+    <server_port>9012</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://valheel.lingrad.net</website_url>
+    <discord_url>https://discord.gg/6zPQ8Nx2pY</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
