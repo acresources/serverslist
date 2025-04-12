@@ -416,7 +416,7 @@
     <server_host>valheel.ddns.net</server_host>
     <server_port>9012</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url>https://valheel.lingrad.net</website_url>
     <discord_url>https://discord.gg/6zPQ8Nx2pY</discord_url>
   </ServerItem>
