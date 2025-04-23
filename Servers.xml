@@ -432,4 +432,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/n4T2AhEg</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>3f1f41ec-c7fd-4ed9-b47d-25b0d94219c1</id>
+    <name>Unfamiliar Shores</name>
+    <description>Pvp Focused Custom Content CustomDM Client with Modes Softcore, Hardcore Pk/Npk, Solo Self Found</description>
+    <emu>ACE</emu>
+    <server_host>74.50.118.178</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
