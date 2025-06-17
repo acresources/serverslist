@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>b846e003-c089-4ab1-b2b6-22937aee0cc4</id>
+    <name>Leafdawning</name>
+    <description>A standard, no-frills PvE end-of-retail ACE Asheron's Call server. Runs on dedicated hardware with the ability to host a large number of players. Enforced 3 account limit.</description>
+    <emu>ACE</emu>
+    <server_host>leafdawning.duckdns.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/NeEcnGrM</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>a94b42cb-898c-4209-9246-82d21211aac1</id>
     <name>InfiniteLeaftide</name>
     <description>Inifinite Level and Enlightenment, an Infinite Extended Retail Experience. Custom content, constant development and active community! </description>
