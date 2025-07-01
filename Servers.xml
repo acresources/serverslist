@@ -444,4 +444,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>bb096062-b8f4-49ca-8472-433508a55b9d</id>
+    <name>MorningStorm</name>
+    <description>Vanilla ACE Server - No Server Modifications - 5 Connection Limit - No Registration</description>
+    <emu>ACE</emu>
+    <server_host>morningstorm.redirectme.net</server_host>
+    <server_port>9070</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>NA</website_url>
+    <discord_url>NA</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
