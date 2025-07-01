@@ -444,4 +444,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>34ebafa26-f692-40e7-8ff2-e585262fe973</id>
+    <name>Ebontide</name>
+    <description>A PvP server that will resemble end-of-retail.</description>
+    <emu>ACE</emu>
+    <server_host>ebontide.zapto.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status></status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/r4b9yeNY</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
