@@ -453,8 +453,8 @@
     <server_port>9070</server_port>
     <type>PvE</type>
     <status>Stable</status>
-    <website_url>NA</website_url>
-    <discord_url>NA</discord_url>
+    <website_url></website_url>
+    <discord_url></discord_url>
   </ServerItem>
   <ServerItem>
     <id>34ebafa26-f692-40e7-8ff2-e585262fe973</id>
