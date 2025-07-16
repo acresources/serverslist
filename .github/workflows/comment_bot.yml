@@ -5,19 +5,8 @@ on:
     types: [created, edited]
 
 jobs:
-  debug:
-    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '!check')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Debug info
-        run: |
-          echo "Author association: ${{ github.event.comment.author_association }}"
-          echo "Comment body: ${{ github.event.comment.body }}"
-          echo "Is PR: ${{ github.event.issue.pull_request != null }}"
-          echo "User: ${{ github.event.comment.user.login }}"
-
   command_check:
-    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '!check') && (github.event.comment.author_association == 'OWNER' || github.event.comment.author_association == 'COLLABORATOR')
+    if: github.event.issue.pull_request && startsWith(github.event.comment.body, '!check') && (github.event.comment.author_association == 'OWNER' || github.event.comment.author_association == 'COLLABORATOR' || github.event.comment.author_association == 'MEMBER')
     name: Perform Check
     runs-on: ubuntu-latest
     permissions:
