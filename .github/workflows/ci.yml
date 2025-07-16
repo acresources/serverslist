@@ -1,4 +1,4 @@
-name: Validate Servers
+name: CI
 
 on: [push, pull_request]
 
@@ -16,7 +16,7 @@ jobs:
       - name: Validate against XSD schema
         run: |
           echo "::group::XSD Schema Validation"
-          
+
           # Run validation and capture output
           if xmllint --noout --schema Servers.xsd Servers.xml 2>&1 | tee validation_output.txt; then
             # Check if there were any validation errors in the output
