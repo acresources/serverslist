@@ -4,10 +4,10 @@
     <id>1a54241c-2610-4de0-85bf-4f173da52513</id>
     <name>Nexus Arena</name>
     <description>Modified Casting Speed</description>
-    <emu>Ace</emu>
+    <emu>ACE</emu>
     <server_host>195.88.25.28</server_host>
     <server_port>9000</server_port>
-    <type>PvP/type>
+    <type>PvP</type>
     <status>Experimental</status>
     <website_url></website_url>
     <discord_url></discord_url>
