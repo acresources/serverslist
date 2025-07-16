@@ -1,0 +1,34 @@
+name: Validate Servers
+
+on: [push, pull_request]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install libxml2-utils
+
+      - name: Validate against XSD schema
+        run: |
+          if ! xmllint --noout --schema Servers.xsd Servers.xml 2>&1 | tee validation_output.txt; then
+            # Parse xmllint output and create annotations
+            while IFS= read -r line; do
+              if [[ $line == *"Servers.xml:"* ]]; then
+                # Extract line number and error message
+                if [[ $line =~ Servers\.xml:([0-9]+): ]]; then
+                  line_num="${BASH_REMATCH[1]}"
+                  error_msg=$(echo "$line" | sed 's/.*: //')
+                  echo "::error file=Servers.xml,line=${line_num}::${error_msg}"
+                fi
+              fi
+            done < validation_output.txt
+            echo "::error file=Servers.xml::XSD validation failed"
+            exit 1
+          fi
+          echo "XSD validation passed"
+          echo "::endgroup::"
