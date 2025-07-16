@@ -56,7 +56,7 @@
     <server_host>df.drunkenfell.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url>http://www.drunkenfell.com</website_url>
     <discord_url>https://discord.gg/e365fBcuaB</discord_url>
   </ServerItem>
@@ -80,7 +80,7 @@
     <server_host>serafino.ddns.net</server_host>
     <server_port>9060</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/GHKk4ck</discord_url>
   </ServerItem>
@@ -92,7 +92,7 @@
     <server_host>serafino.ddns.net</server_host>
     <server_port>9070</server_port>
     <type>PvP</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/GHKk4ck</discord_url>
   </ServerItem>
@@ -104,7 +104,7 @@
     <server_host>levistras.acportalstorm.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/TtkcWbv</discord_url>
   </ServerItem>
@@ -212,7 +212,7 @@
     <server_host>asheronscall.hopto.org</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/VSFtYXN3v7</discord_url>
   </ServerItem>
@@ -464,7 +464,7 @@
     <server_host>ebontide.zapto.org</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/r4b9yeNY</discord_url>
   </ServerItem>
