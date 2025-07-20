@@ -68,7 +68,7 @@
     <server_host>df.drunkenfell.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url>http://www.drunkenfell.com</website_url>
     <discord_url>https://discord.gg/e365fBcuaB</discord_url>
   </ServerItem>
@@ -92,7 +92,7 @@
     <server_host>serafino.ddns.net</server_host>
     <server_port>9060</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/GHKk4ck</discord_url>
   </ServerItem>
@@ -104,7 +104,7 @@
     <server_host>serafino.ddns.net</server_host>
     <server_port>9070</server_port>
     <type>PvP</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/GHKk4ck</discord_url>
   </ServerItem>
@@ -116,7 +116,7 @@
     <server_host>levistras.acportalstorm.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/TtkcWbv</discord_url>
   </ServerItem>
@@ -139,7 +139,7 @@
     <emu>ACE</emu>
     <server_host>thistlecrown.ddns.net</server_host>
     <server_port>9000</server_port>
-    <type>PVE</type>
+    <type>PvE</type>
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/uhZ3hn7</discord_url>
@@ -211,7 +211,7 @@
     <emu>ACE</emu>
     <server_host>www.asheron4fun.com</server_host>
     <server_port>9050</server_port>
-    <type>PVE</type>
+    <type>PvE</type>
     <status>Stable</status>
     <website_url>https://web.asheron4fun.com/</website_url>
     <discord_url>https://discord.gg/afnQNXj</discord_url>
@@ -224,7 +224,7 @@
     <server_host>asheronscall.hopto.org</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/VSFtYXN3v7</discord_url>
   </ServerItem>
@@ -259,7 +259,7 @@
     <emu>ACE</emu>
     <server_host>morgentau.online</server_host>
     <server_port>9000</server_port>
-    <type>PVE</type>
+    <type>PvE</type>
     <status>Development</status>
     <website_url>https://forum.morgentau.online/</website_url>
     <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
@@ -476,7 +476,7 @@
     <server_host>ebontide.zapto.org</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
-    <status></status>
+    <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/r4b9yeNY</discord_url>
   </ServerItem>
