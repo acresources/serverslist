@@ -389,7 +389,7 @@
     <name>The Tower</name>
     <description>Roguelite experience. Climb The Tower, defeat the bosses, and find the secrets within. Linear progression. WIP.</description>
     <emu>ACE</emu>
-    <server_host>174.165.73.80</server_host>
+    <server_host>174.164.224.80</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
