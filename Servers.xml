@@ -411,7 +411,7 @@
   <ServerItem>
     <id>71054b8d-ab82-439a-a78c-13fe176f8358</id>
     <name>Whiting</name>
-    <description>A PVE Server. Stock ACE end-of-retail experience. With some QOL additions. [ Market Place NPC's Portals, Life Stone. ... and more.]/description>
+    <description>A PVE Server. Stock ACE end-of-retail experience. With some QOL additions. [ Market Place NPC's Portals, Life Stone. ... and more.]</description>
     <emu>ACE</emu>
     <server_host>whitingace.ddns.net</server_host>
     <server_port>9000</server_port>
