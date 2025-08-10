@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
 <ServerItem>
-    <id>1a54241c-2610-4de0-85bf-4f173da52513</id>
-    <name>Nexus Arena</name>
-    <description>Modified Casting Speed</description>
+    <id>86f3d759-2d3d-43a9-8f9e-7da78a680252</id>
+    <name>Nexus</name>
+    <description>PVE and PVP Server Tons of Custom Content reduced Xp by 50%</description>
     <emu>ACE</emu>
-    <server_host>195.88.25.28</server_host>
+    <server_host>135.148.136.179</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
-    <status>Experimental</status>
-    <website_url></website_url>
-    <discord_url></discord_url>
+    <status>Development</status>
+    <website_url>https://www.asheronscall.wiki</website_url>
+    <discord_url>https://discord.gg/Hgszuq66ME</discord_url>
   </ServerItem>
   <ServerItem>
     <id>b846e003-c089-4ab1-b2b6-22937aee0cc4</id>
