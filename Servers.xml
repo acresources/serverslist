@@ -482,7 +482,7 @@
   </ServerItem>
   <ServerItem>
     <id>b18f80c2-5c50-4e4a-828b-6278f71bfaca</id>
-    <name>Leafdawn</name>
+    <name>LeafDawn</name>
     <description>A PVE Server thats goal is to mimic end of game retail. With some custom content</description>
     <emu>ACE</emu>
     <server_host>leafdawn.hopto.org</server_host>
