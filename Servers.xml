@@ -409,18 +409,6 @@
     <discord_url>https://discord.gg/yMkzW3yAd4</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>71054b8d-ab82-439a-a78c-13fe176f8358</id>
-    <name>Whiting</name>
-    <description>A PVE Server. Stock ACE end-of-retail experience. With some QOL additions. [ Market Place NPC's Portals, Life Stone. ... and more.]</description>
-    <emu>ACE</emu>
-    <server_host>whitingace.ddns.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url></website_url>
-    <discord_url>https://discord.gg/rmnZAcPavj</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>b0fda6d4-adfe-449f-ab72-384367e8c3d4</id>
     <name>ValHeel</name>
     <description>An enhanced PvE server, completely ahead of it's time. TONS of custom content to explore, with classes of DPS, Tank, or Healer. Many bugs have been squashed.</description>
