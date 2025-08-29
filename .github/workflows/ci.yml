@@ -13,35 +13,5 @@ jobs:
           sudo apt-get update
           sudo apt-get -y install libxml2-utils
 
-      - name: Validate against XSD schema
-        run: |
-          echo "::group::XSD Schema Validation"
-
-          # Run validation and capture output
-          if xmllint --noout --schema Servers.xsd Servers.xml 2>&1 | tee validation_output.txt; then
-            # Check if there were any validation errors in the output
-            if grep -q "Schemas validity error\|fails to validate" validation_output.txt; then
-              echo "Validation errors found, creating annotations..."
-              # Parse xmllint output and create annotations
-              while IFS= read -r line; do
-                if [[ $line == *"Servers.xml:"* && $line == *"Schemas validity error"* ]]; then
-                  # Extract line number and error message
-                  if [[ $line =~ Servers\.xml:([0-9]+): ]]; then
-                    line_num="${BASH_REMATCH[1]}"
-                    error_msg=$(echo "$line" | sed 's/.*Schemas validity error : //')
-                    echo "::error file=Servers.xml,line=${line_num}::${error_msg}"
-                  fi
-                fi
-              done < validation_output.txt
-              echo "::error file=Servers.xml::XSD validation failed - see annotations above"
-              echo "::endgroup::"
-              exit 1
-            else
-              echo "XSD validation passed"
-              echo "::endgroup::"
-            fi
-          else
-            echo "::error file=Servers.xml::XML parsing failed"
-            echo "::endgroup::"
-            exit 1
-          fi
+      - name: Validate Servers.xml
+        run: .github/validate-servers.sh Servers.xml
