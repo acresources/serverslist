@@ -29,7 +29,7 @@
     <name>InfiniteLeaftide</name>
     <description>Inifinite Level and Enlightenment, an Infinite Extended Retail Experience. Custom content, constant development and active community! </description>
     <emu>ACE</emu>
-    <server_host>infiniteleaftide.online</server_host>
+    <server_host>game.infiniteleaftide.online</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Development</status>
