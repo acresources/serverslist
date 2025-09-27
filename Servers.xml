@@ -483,7 +483,7 @@
   <ServerItem>
     <id>88ffe220-098a-49e5-bdc6-b3aa438bcfa7</id>
     <name>Harvestagain</name>
-    <description>A PVE Server. End of Retail. No frills</description>
+    <description>A PVE Server. End of Retail. QoL Additions and some Content.</description>
     <emu>ACE</emu>
     <server_host>harvestagain.ddns.net</server_host>
     <server_port>9000</server_port>
