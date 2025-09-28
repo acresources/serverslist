@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
-<ServerItem>
-    <id>c7089320-8f18-470c-b624-41ecddd9d4a0</id>
-    <name>Nexus</name>
-    <description>EOR PVP and PVE Server with tons of custom content. Xp and Lum reduced by 50%</description>
-    <emu>ACE</emu>
-    <server_host>135.148.136.179</server_host>
-    <server_port>9000</server_port>
-    <type>PvP</type>
-    <status>Development</status>
-    <website_url>https://www.asheronscall.wiki</website_url>
-    <discord_url>https://discord.gg/Hgszuq66ME</discord_url>
-  </ServerItem>
   <ServerItem>
     <id>b846e003-c089-4ab1-b2b6-22937aee0cc4</id>
     <name>Leafdawning</name>
