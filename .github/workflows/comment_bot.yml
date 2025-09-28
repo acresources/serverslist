@@ -26,7 +26,7 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '⏳ Checking if I can connect and log in to ${{ steps.extract.outputs.ADDRESS }}. Give me a minute...'
+              body: "⏳ Checking if I can connect and log in to ${{ steps.extract.outputs.ADDRESS }}. Give me a minute..."
             })
       - name: Checkout ac-server-monitor
         uses: actions/checkout@v4
@@ -50,7 +50,7 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '✅ ${{ steps.extract.outputs.ADDRESS }} was up and I was able to log in!'
+              body: "✅ ${{ steps.extract.outputs.ADDRESS }} was up and I was able to log in!"
             })
       - uses: actions/github-script@v6
         if: steps.check.outcome == 'failure'
@@ -60,5 +60,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '🚫 ${{ steps.extract.outputs.ADDRESS }} was down or I couldn't log in.'
+              body: "🚫 ${{ steps.extract.outputs.ADDRESS }} was down or I couldn't log in."
             })
