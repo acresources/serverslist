@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+    <ServerItem>
+    <id>99b5533c-196a-4d38-8db1-dbad7a91d7a2</id>
+    <name>Nexus</name>
+    <description>PvP/PvE hybrid server. Custom content, balanced combat,very active development.</description>
+    <emu>ACE</emu>
+    <server_host>135.148.136.179</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url>https://www.nexusserver.wiki/</website_url>
+    <discord_url>https://discord.gg/npZw7j6T</discord_url>
+  </ServerItem>
   <ServerItem>
     <id>b846e003-c089-4ab1-b2b6-22937aee0cc4</id>
     <name>Leafdawning</name>
