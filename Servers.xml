@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
     <ServerItem>
-    <id>99b5533c-196a-4d38-8db1-dbad7a91d7a2</id>
-    <name>Nexus</name>
-    <description>PvP/PvE hybrid server. Custom content, balanced combat,very active development.</description>
+    <id>ab7de323-cd66-4c54-b4d0-7b866ca7e662</id>
+    <name>PK</Hammers Bum>
+    <description>PvP Test.</description>
     <emu>ACE</emu>
     <server_host>135.148.136.179</server_host>
     <server_port>9000</server_port>
@@ -55,7 +55,7 @@
     <emu>ACE</emu>
     <server_host>172.111.230.127</server_host>
     <server_port>9000</server_port>
-    <type>PvE</type>
+    <type>PvP</type>
     <status>Development</status>
     <website_url></website_url>
     <discord_url></discord_url>
