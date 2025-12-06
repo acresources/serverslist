@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
     <ServerItem>
+    <id>b5bde7a5-537c-4665-8714-b7b097e73964</id>
+    <name>NoESCapeGames</name>
+    <description>RetailLike with Modded NPCs to get you where you was on your last server.</description>
+    <emu>ACE</emu>
+    <server_host>noescapegames.com</server_host>
+    <server_port>9000</server_port>
+    <type>Pve, Pvp</type>
+    <status>Development</status>
+    <website_url>noescapegames.com</website_url>
+    <discord_url>https://discord.gg/46C8afEVs4</discord_url>
+  </ServerItem>
+    <ServerItem>
     <id>99b5533c-196a-4d38-8db1-dbad7a91d7a2</id>
     <name>Nexus</name>
     <description>PvP/PvE hybrid server. Custom content, balanced combat,very active development.</description>
