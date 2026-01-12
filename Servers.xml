@@ -505,11 +505,11 @@
     <discord_url>https://discord.gg/znS865qNx8</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>3c725cb1-d083-4fb7-a279-351ff670cf58</id>
+    <id>f188eed1-45e8-47b6-918c-7e91c193d550</id>
     <name>Dawnsong</name>
-    <description>Balanced for solo/small groups. Level 1000 Cap. Increased XP/Lum/Loot. QoL NPCs in Marketplace. EoR Content.</description>
+    <description>Balanced for Solo/Small groups. Level 1000 cap. Increased XP/Lum. Enhanced loot and quest items. QoL NPCs in Marketplace. 2 account limit.</description>
     <emu>ACE</emu>
-    <server_host>dawnsong.ddns.net/server_host>
+    <server_host>dawnsong.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
