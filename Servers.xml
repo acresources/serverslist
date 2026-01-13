@@ -506,10 +506,10 @@
   </ServerItem>
   <ServerItem>
     <id>8bdfb181-b68e-4bcb-bd2b-656b6d997d41</id>
-    <name>Dawnsong</name>
+    <name>Mistwood</name>
     <description>Balanced for Solo/Small groups. Level Cap, XP, and Luminance increased. Enhanced loot. Convenience NPCs in Marketplace.</description>
     <emu>ACE</emu>
-    <server_host>dawnsong.ddns.net</server_host>
+    <server_host>mistwood.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
