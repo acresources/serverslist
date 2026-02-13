@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
   <ServerItem>
+    <id>2d7bfb40-7726-4951-b65f-b4948807e602</id>
+    <name>Conquest</name>
+    <description>Custom PvE server with live events, deep crafting, active development, and PK system.</description>
+    <emu>ACE</emu>
+    <server_host>ACConquest.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url>https://dsc.gg/conquerac</website_url>
+    <discord_url>https://discord.gg/Gsadhhv72S</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>b5bde7a5-537c-4665-8714-b7b097e73964</id>
     <name>NoESCapeGames</name>
     <description>RetailLike with Modded NPCs to get you where you was on your last server.</description>
