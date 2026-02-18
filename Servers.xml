@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+    <ServerItem>
+    <id>59544be2-9435-400d-a589-30b2a39ed071</id>
+    <name>Newfoundland</name>
+    <description>New Feb 2026. End of retail server. All Weclome (Free buffbot Yaraq)</description>
+    <emu>ACE</emu>
+    <server_host>rftc.duckdns.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/A5AHWZFUAa</discord_url>
+  </ServerItem>
   <ServerItem>
     <id>2d7bfb40-7726-4951-b65f-b4948807e602</id>
     <name>Conquest</name>
