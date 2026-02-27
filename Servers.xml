@@ -421,18 +421,6 @@
     <discord_url>https://discord.gg/yMkzW3yAd4</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>b0fda6d4-adfe-449f-ab72-384367e8c3d4</id>
-    <name>ValHeel</name>
-    <description>An enhanced PvE server, completely ahead of it's time. TONS of custom content to explore, with classes of DPS, Tank, or Healer. Many bugs have been squashed.</description>
-    <emu>ACE</emu>
-    <server_host>valheel.ddns.net</server_host>
-    <server_port>9012</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url>https://valheel.lingrad.net</website_url>
-    <discord_url>https://discord.gg/6zPQ8Nx2pY</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>748ec71c-961e-472b-955c-7bc850c2ac3e</id>
     <name>CABA</name>
     <description>PK Server with QOL Improvements - repaired subway, updated facility hub and some portal networks, reduced restrictions on Olthoi play, eased housing restrictions</description>
