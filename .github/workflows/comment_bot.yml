@@ -15,10 +15,32 @@ jobs:
       repository-projects: write
       id-token: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Extract address from comment
         id: extract
         run: |
-          echo "ADDRESS=$(echo ${{ github.event.comment.body }} | awk '{print $2}')" >> $GITHUB_OUTPUT
+          INPUT=$(echo "${{ github.event.comment.body }}" | awk '{print $2}')
+          if echo "$INPUT" | grep -q ':'; then
+            echo "ADDRESS=$INPUT" >> $GITHUB_OUTPUT
+          else
+            PORT=$(python3 -c "
+import xml.etree.ElementTree as ET, sys
+tree = ET.parse('Servers.xml')
+root = tree.getroot()
+for item in root.findall('ServerItem'):
+    host = item.find('server_host')
+    port = item.find('server_port')
+    if host is not None and port is not None and host.text.strip() == sys.argv[1]:
+        print(port.text.strip())
+        break
+" "$INPUT")
+            if [ -n "$PORT" ]; then
+              echo "ADDRESS=$INPUT:$PORT" >> $GITHUB_OUTPUT
+            else
+              echo "ADDRESS=$INPUT" >> $GITHUB_OUTPUT
+            fi
+          fi
       - uses: actions/github-script@v6
         with:
           script: |
