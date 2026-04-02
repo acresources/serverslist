@@ -516,4 +516,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/UMjW7qckpb</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>ff2ba4ee-aeaa-4870-92a7-3dc203e7e76c</id>
+    <name>Eversong</name>
+    <description>Five difficulty worlds, quest bonuses, enlightenment &amp; milestones, banking &amp; lockboxes, invasions, optional classes.</description>
+    <emu>ACE</emu>
+    <server_host>eversong.abrdns.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/9eHxTb7p2J</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
