@@ -487,7 +487,7 @@
     <emu>ACE</emu>
     <server_host>leafdawn.hopto.org</server_host>
     <server_port>9000</server_port>
-    <type>PvP</type>
+    <type>PvE</type>
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/c2QUBPwPZF</discord_url>
