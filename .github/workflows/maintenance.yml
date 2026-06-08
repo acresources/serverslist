@@ -1,0 +1,25 @@
+name: Maintenance
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Expire servers
+      uses: ./.github/workflows/actions/expire-servers
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
+      with:
+        branch: remove-expired-servers
+        delete-branch: true
+        title: 'Remove expired servers'

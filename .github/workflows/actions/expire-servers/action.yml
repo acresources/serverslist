@@ -1,0 +1,5 @@
+name: 'Expire servers'
+description: 'Produces a new Servers.xml with expired servers removed and opens a pull request'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
