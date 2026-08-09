@@ -540,4 +540,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/YeX6mupcf</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>cbdcb5fc-a9d7-46fb-bb65-6390c6247d55</id>
+    <name>Shadowgain</name>
+    <description>Usage-based progression: skills and attributes rise only through use, effectively unlimited but very slow to master.</description>
+    <emu>ACE</emu>
+    <server_host>shadowgain.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Experimental</status>
+    <website_url>https://shadowgain.com</website_url>
+    <discord_url>https://discord.gg/BmFZs6N97J</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
