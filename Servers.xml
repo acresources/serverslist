@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+  <ServerItem>
+    <id>1f069f0d-1b2a-421b-a723-297486a82cd7</id>
+    <name>DreamWeave</name>
+    <description>PvE server pushing unmodified end-of-retail ToD to the limit. Lore driven, new class abilities, new crafting system, tons of QOL, up-to-date wiki.</description>
+    <emu>ACE</emu>
+    <server_host>play.acdreamweave.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url>https://wiki.acdreamweave.com</website_url>
+    <discord_url>https://discord.gg/KFnBFpFQV</discord_url>
+  </ServerItem>
     <ServerItem>
     <id>59544be2-9435-400d-a589-30b2a39ed071</id>
     <name>Newfoundland</name>
