@@ -564,4 +564,16 @@
     <website_url>https://wiki.acdreamweave.com</website_url>
     <discord_url>https://discord.gg/KFnBFpFQV</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>5e1e9818-29d4-4ef3-8be3-bcee123d80a7</id>
+    <name>BartleskeetHG</name>
+    <description>Long running end-of-retail server with very few changed elements and some new additions. Jump to Discord to see the latest info.</description>
+    <emu>ACE</emu>
+    <server_host>bartleskeethg.bartleskeet.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url>https://www.bartleskeet.com</website_url>
+    <discord_url>https://discord.gg/VMqA5F5g9d</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
