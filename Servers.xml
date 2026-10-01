@@ -566,7 +566,7 @@
   </ServerItem>
   <ServerItem>
     <id>5e1e9818-29d4-4ef3-8be3-bcee123d80a7</id>
-    <name>BartleskeetHG</name>
+    <name>BartleSkeetHG</name>
     <description>Long running end-of-retail server with very few changed elements and some new additions. Jump to Discord to see the latest info.</description>
     <emu>ACE</emu>
     <server_host>bartleskeethg.bartleskeet.com</server_host>
