@@ -543,13 +543,13 @@
   <ServerItem>
     <id>1f069f0d-1b2a-421b-a723-297486a82cd7</id>
     <name>DreamWeave</name>
-    <description>PvE server pushing unmodified end-of-retail ToD to the limit. Lore driven, new class abilities, new crafting system, tons of QOL, up-to-date wiki.</description>
+    <description>PvE+PvP server pushing unmodified end-of-retail ToD to the limit. Web market, suit builder, battlegrounds, /mule vault system, features beyond any other server.</description>
     <emu>ACE</emu>
     <server_host>play.acdreamweave.com</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
-    <status>Development</status>
-    <website_url>https://wiki.acdreamweave.com</website_url>
+    <status>Stable</status>
+    <website_url>https://www.acdreamweave.com</website_url>
     <discord_url>https://discord.gg/p2h3yca4BD</discord_url>
   </ServerItem>
   <ServerItem>
