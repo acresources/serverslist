@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
+  <ServerItem>
+    <id>7f3b9c21-4e8a-4d16-b2f7-1a9e5c0d3b84</id>
+    <name>Verland_Hrim</name>
+    <description>PvE End of Retail. Quality of Life + Improved Society Rewards. 3 account limit. All Welcome.</description>
+    <emu>ACE</emu>
+    <server_host>verlandhrim.duckdns.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/HTnqGSwY2</discord_url>
+  </ServerItem>
     <ServerItem>
     <id>59544be2-9435-400d-a589-30b2a39ed071</id>
     <name>Newfoundland</name>
