@@ -564,4 +564,16 @@
     <website_url>https://www.bartleskeet.com</website_url>
     <discord_url>https://discord.gg/VMqA5F5g9d</discord_url>
   </ServerItem>
+      <ServerItem>
+    <id>19c05a84-551c-428e-859e-9ea2fd06592e</id>
+    <name>JawnTide</name>
+    <description>Red (PvP) server, successor to DocTide: Town Control, arenas, world bosses, PK quests and a season leaderboard. Level cap and loot open in stages. Max 2 accounts logged in at a time, no VPNs.</description>
+    <emu>ACE</emu>
+    <server_host>play.jawntide.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvP</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/f4CM9yqGbF</discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
