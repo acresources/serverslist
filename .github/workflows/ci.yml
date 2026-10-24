@@ -15,3 +15,34 @@ jobs:
 
       - name: Validate Servers.xml
         run: .github/validate-servers.sh Servers.xml
+
+  test-server-order-check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Run server order check unit tests
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py' -v
+
+  check-server-order:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # Do a full fetch because check_server_order.py needs git history
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Check new servers are appended to the bottom
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git show "$BASE_SHA:Servers.xml" > base-Servers.xml
+          python3 .github/scripts/check_server_order.py base-Servers.xml Servers.xml
