@@ -30,6 +30,8 @@
 * <website_url\> (Optional)
 * <discord_url\> (Optional)
 
+Note: When adding your server to the list, add at the bottom of the file, just before the `</ArrayOfServerItem>` tag.
+
 ## FAQ
 
 #### Is there a step by step guide to adding my server?
