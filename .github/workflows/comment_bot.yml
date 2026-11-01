@@ -19,7 +19,7 @@ jobs:
         id: extract
         run: |
           echo "ADDRESS=$(echo ${{ github.event.comment.body }} | awk '{print $2}')" >> $GITHUB_OUTPUT
-      - uses: actions/github-script@v6
+      - uses: actions/github-script@v9
         with:
           script: |
             github.rest.issues.createComment({
@@ -29,7 +29,7 @@ jobs:
               body: "⏳ Checking if I can connect and log in to ${{ steps.extract.outputs.ADDRESS }}. Give me a minute..."
             })
       - name: Checkout ac-server-monitor
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: 'amoeba/ac-server-monitor'
           path: 'ac-server-monitor'
@@ -42,7 +42,7 @@ jobs:
         working-directory: ./ac-server-monitor
         run: |
           ./monitor -check ${{ steps.extract.outputs.ADDRESS }}
-      - uses: actions/github-script@v6
+      - uses: actions/github-script@v9
         if: steps.check.outcome == 'success'
         with:
           script: |
@@ -52,7 +52,7 @@ jobs:
               repo: context.repo.repo,
               body: "✅ ${{ steps.extract.outputs.ADDRESS }} was up and I was able to log in!"
             })
-      - uses: actions/github-script@v6
+      - uses: actions/github-script@v9
         if: steps.check.outcome == 'failure'
         with:
           script: |
