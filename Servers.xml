@@ -602,7 +602,7 @@
   </ServerItem>
   <ServerItem>
     <id>892961b4-dc5e-498d-a3ff-42c9acc90494</id>
-    <name>Hollowtide</name>
+    <name>Hollowtide PK</name>
     <description>End of retail with Darktide rules, plus our own client with VTank-style automation built in (any OS, or play in the browser at hollowtide.org). Retired events revived on a yearly calendar.</description>
     <emu>ACE</emu>
     <server_host>hollowtide.org</server_host>
