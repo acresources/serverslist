@@ -615,11 +615,11 @@
   <ServerItem>
     <id>cde559f3-a5a6-4e5c-9471-2f2ef36d1892</id>
     <name>Soteria Dereth</name>
-    <description>End-of-retail PvE with a head start: new characters begin at level 50 and earn 5x experience.</description>
+    <description>End-of-retail full PvP (Darktide rules) with a head start: new characters begin at level 50 and earn 5x experience.</description>
     <emu>ACE</emu>
     <server_host>play.soteriadynamics.com</server_host>
     <server_port>9000</server_port>
-    <type>PvE</type>
+    <type>PvP</type>
     <status>Development</status>
     <website_url>https://asheron.soteriadynamics.com</website_url>
   </ServerItem>
