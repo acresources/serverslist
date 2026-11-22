@@ -603,12 +603,12 @@
   <ServerItem>
     <id>892961b4-dc5e-498d-a3ff-42c9acc90494</id>
     <name>Hollowtide PK</name>
-    <description>End of retail with Darktide rules, plus our own client with VTank-style automation built in (any OS, or play in the browser at hollowtide.org). Retired events revived on a yearly calendar.</description>
+    <description>Darktide rules PK server. PK Night every Sunday 7 PM Pacific, a PK ranking, and retired retail events revived on a yearly calendar. Play in your browser at hollowtide.org, or our desktop and Android client with VTank-style automation built in; the retail client works too.</description>
     <emu>ACE</emu>
     <server_host>hollowtide.org</server_host>
     <server_port>9000</server_port>
     <type>PvP</type>
-    <status>Development</status>
+    <status>Stable</status>
     <website_url>https://hollowtide.org</website_url>
     <discord_url>https://discord.gg/utSfFbTqkS</discord_url>
   </ServerItem>
